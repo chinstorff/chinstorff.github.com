@@ -1,6 +1,55 @@
----
+<!-- ---
 layout: page
 title: This site is under construction
 tagline: so it's probably pretty boring for you
----
-<img src="/assets/graphics/revenge.gif" alt="Revenge" align="middle" loop="infinite">
+--- -->
+<style type="text/css">
+* {
+    -webkit-animation:reveal 1.5s 1;
+    -moz-animation:reveal 1.5s 1;
+    animation:reveal 1.5s 1;
+}
+@-webkit-keyframes reveal {
+    from {
+	background: black;
+    }to{background:white;} }
+@-moz-keyframes reveal {
+    from {
+        background: black;
+    }
+    to {
+        background: white;
+    }
+}
+@keyframes reveal {
+    from {
+        background: black;
+    }
+    to {
+        background: white;
+    }
+}
+img, div {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    vertical-align: middle;
+    position: relative;
+}
+div {
+    height: 100%;
+} 
+
+</style>
+
+<head>
+<link rel="shortcut icon" href="favicon.png" />
+</head>
+
+<body>
+<div>
+<img src="/assets/graphics/revenge.gif" alt="Revenge" loop="infinite">
+</div>
+</body>
