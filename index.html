@@ -1,55 +1,109 @@
-<!-- ---
-layout: page
-title: This site is under construction
-tagline: so it's probably pretty boring for you
---- -->
-<style type="text/css">
-* {
-    -webkit-animation:reveal 1.5s 1;
-    -moz-animation:reveal 1.5s 1;
-    animation:reveal 1.5s 1;
-}
-@-webkit-keyframes reveal {
-    from {
-	background: black;
-    }to{background:white;} }
-@-moz-keyframes reveal {
-    from {
-        background: black;
-    }
-    to {
-        background: white;
-    }
-}
-@keyframes reveal {
-    from {
-        background: black;
-    }
-    to {
-        background: white;
-    }
-}
-img, div {
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
-    margin-top: auto;
-    margin-bottom: auto;
-    vertical-align: middle;
-    position: relative;
-}
-div {
-    height: 100%;
-} 
-
-</style>
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<link rel="shortcut icon" href="favicon.png" />
+  <meta charset="utf-8">
+  <title>chinstorff</title>
+  <meta name="description" content="chinstorff.com is owned and under development by Christopher Hinstorff">
+  <style type="text/css">
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-size: 1em;
+      background: white;
+      color: black;
+      text-align: center;
+      padding-top: 20em;
+      text-align: center;
+      -webkit-animation: reveal 1.5s 1;
+      -moz-animation: reveal 1.5s 1;
+      animation: reveal 1.5s 1;
+    }
+    h1 {
+      font: 300 4em "proxima-nova";
+      text-indent: .25em;
+      margin-bottom: 1em;
+    }
+    h1 span {
+      font-weight: 900;
+      color: mediumaquamarine;
+    }
+    li {
+      display: inline-block;
+      margin: 0 2em;
+    }
+    a {
+      display: block;
+      float: left;
+      width: 2.875em;
+      height: 2.875em;
+      text-indent: -9999px;
+    }
+    .iris,
+    .ananke,
+    .argus,
+    .pollux {
+      background: url(./sprites.png) no-repeat;
+    }
+    .ananke {
+      background-position: -46px 0;
+    }
+    .argus {
+      background-position: -92px 0;
+    }
+    .pollux {
+      background-position: -138px 0;
+    }
+    @-webkit-keyframes reveal {
+      from {
+        background: black;
+      }
+      to {
+        background: white;
+      }
+    }
+    @-moz-keyframes reveal {
+      from {
+        background: black;
+      }
+      to {
+        background: white;
+      }
+    }
+    @keyframes reveal {
+      from {
+        background: black;
+      }
+      to {
+        background: white;
+      }
+    }
+  </style>
+  <link rel="icon" type="image/png" href="./favicon.png">
+  <script type="text/javascript" src="http://use.typekit.com/juw0ind.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
-
 <body>
-<div>
-<img src="/assets/graphics/revenge.gif" alt="Revenge" loop="infinite">
-</div>
+  <h1>Christopher <span>×</span> Hinstorff</h1>
+  <ul>
+    <li class="iris"><a href="mailto:chris@chinstorff.com">Email</a></li>
+    <li class="ananke"><a href="http://chinstorff.com/hivolts">Games</a></li>
+    <li class="argus"><a href="http://chinstorff.com">empty</a></li>
+    <li class="pollux"><a href="http://chinstorff.com">empty</a></li>
+  </ul>
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-11763532-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
 </body>
+</html>
