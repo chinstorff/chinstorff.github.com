@@ -1,0 +1,50 @@
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-size: 1em;
+      background: white;
+      padding-top: 18em;
+      color: black;
+      text-align: center;
+      text-align: center;
+      -webkit-animation: reveal 1.5s 1;
+      -moz-animation: reveal 1.5s 1;
+      animation: reveal 1.5s 1;
+    }
+    h1 {
+      font-family:"Kaffeesatz", "sans-serif";
+      font-size: 4em;
+      text-indent: .25em;
+      margin-bottom: 1em;
+    }
+    h1 span {
+      font-family: "sans-serif";
+      font-weight: 900;
+      color: mediumaquamarine;
+    }
+    li {
+      display: inline-block;
+      margin: 0 2em;
+    }
+    a {
+      display: block;
+      float: left;
+      width: 2.875em;
+      height: 2.875em;
+      text-indent: -9999px;
+    }
+    @font-face {
+      font-family: ks-thin;
+      font-weight: thin;
+      src: url("./assets/fonts/YanoneKaffeesatz-Thin.otf") format("opentype");
+    }
+    @font-face {
+      font-family: ks-light;
+      src: url("./assets/fonts/YanoneKaffeesatz-Light.otf") format("opentype");
+    }
+    @font-face {
+      font-family: ks-normal;
+      src: url("./assets/fonts/YanoneKaffeesatz-Thin.otf") format("opentype");
+    }
