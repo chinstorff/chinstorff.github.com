@@ -9,14 +9,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Fabio Souto
-tagline: Fabio Souto personal webpage
+title : Max Bernstein
+tagline: Musings of a code-crazy teenager
 author :
-  name : Fabio Souto
-  email : fsoutomoure@gmail.com
-  github : fsouto
-  twitter : fsoutomo
-  feedburner : fasouto
+  name : Max Bernstein
+  email : tekknolagi@gmail.com
+  github : tekknolagi
+  twitter : mrmaxbernstein
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -26,7 +25,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://fsouto.github.com
+production_url : http://byte.bernsteinbear.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -99,7 +98,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-12178332-3'
+        tracking_id : 'UA-26440738-3'
     getclicky :
       site_id : 
     mixpanel :

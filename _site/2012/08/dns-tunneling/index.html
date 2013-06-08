@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>DNS tunneling, or, how to get around Gogo</title>
+    
+    <meta name="author" content="Max Bernstein">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <link href="/assets/themes/fasouto/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/themes/fasouto/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link href="/assets/themes/fasouto/css/style.css" rel="stylesheet" type="text/css" media="all">
+    <link href='http://fonts.googleapis.com/css?family=OFL+Sorts+Mill+Goudy+TT:regular,italic' rel='stylesheet' type='text/css' />
+
+  </head>
+
+  <body>
+
+
+    <div class="container">
+      
+        <header class="row main-header">
+          <div class="span3 logo"><h3><a href="/">max bernstein</a></h3></div>  
+          <div class="span4 offset5">
+    <nav>
+        <ul class="nav nav-pills nav-menu blog-navigation">
+            <li class=""><a href="/projects">projects</a></li>
+            <li class=""><a href="/archive.html">blog</a></li>
+            <li class=""><a href="//photos.bernsteinbear.com">photos</a></li>
+            <li class=""><a href="/about">about</a></li>
+        </ul>
+    </nav>
+</div>
+        </header>
+
+      <div class="content">
+        
+<div class="page-header">
+  <h1>DNS tunneling, or, how to get around Gogo <small></small></h1>
+</div>
+
+<div class="row">
+  <div class="span8">
+    <p>We all hate those paywalls that companies put up in airports, airplanes, lounges, or what have you. Fortunately (and thanks to <a href='http://kryo.se'>kryo.se</a>), there is a tool that can get you around that. This is a concise and easy to follow tutorial on how to set a tool called <code>iodine</code> up.</p>
+
+<p>If you&#8217;re familiar with the terminal, this should take about five minutes.</p>
+
+<p><strong>Requirements</strong> 1 computer on which you have root privileges 1 server (with ports you can open) on which you have root privileges Control over the DNS of your server&#8217;s domain (or subdomain — see <a href='http://freedns.afraid.org/'>freedns.afraid.org</a>)</p>
+
+<p><strong>Steps</strong></p>
+
+<p>1. Visit <a href='http://code.kryo.se/iodine/'>code.kryo.se/iodine</a>, and figure out what package you should install, based on your OS. I&#8217;m running Ubuntu 12.04 on my server and Linux Mint 13 on my client, so on <em>both</em> I used:</p>
+
+<pre><code>sudo apt-get install iodine</code></pre>
+
+<p>2. Open up the zone file or DNS control panel for your server and set up an NS record like this:</p>
+
+<pre><code>proxy		IN	NS	serv.mydomain.com.</code></pre>
+
+<p>Where <code>mydomain.com</code> is some domain you own, like <code>bernsteinbear.com</code>, and <code>serv</code> is the subdomain of your choice. It&#8217;ll serve as your DNS server.</p>
+
+<p>3. Set up an A record for <code>serv.mydomain.com</code> to point to your server&#8217;s IP.</p>
+
+<p>4. SSH into your server and run:</p>
+
+<pre><code>sudo iodined -cP YOUR_PASSWORD 10.0.1.1 proxy.mydomain.com</code></pre>
+
+<p>If it runs correctly, you&#8217;ll see output like this:</p>
+
+<pre><code>Opened proxy0
+Setting IP of proxy0 to 10.0.1.1
+Setting MTU of proxy0 to 1130
+Opened UDP socket
+Listening to dns for domain proxy.mydomain.com
+Detaching from terminal...</code></pre>
+
+<p>This opens up <code>proxy.mydomain.com</code> to incoming requests from <code>iodine</code>.</p>
+
+<p>5. Open up a terminal on your local box and run:</p>
+
+<pre><code>sudo iodine -r proxy.mydomain.com</code></pre>
+
+<p>You&#8217;ll get first a root password prompt and then the <code>iodine</code> password prompt.</p>
+
+<p>Now you&#8217;ll have a fully functioning device willing to tunnel all your traffic via DNS. The IP you specified in step 4 is forwarded onto your local box, so accessing <code>10.0.1.1</code> should bring up the same page as accessing <code>mydomain.com</code>. In order to fully use this and tunnel your traffic, you can use this plain (not recommended, as it&#8217;s totally insecure), or create a secondary tunnel through it (which I did).</p>
+
+<p>All you need to do is set up a SOCKS proxy through the host <code>10.0.1.1</code>, which will then forward your traffic through DNS requests to your server. Neat, huh?</p>
+    <hr>
+    <div class="pagination">
+      <ul>
+      
+        <li class="prev"><a href="/2012/08/dictionary" title="Dictionary">&larr; Dictionary</a></li>
+      
+      
+        <li class="next"><a href="/2012/08/torrenting-and-its-effect-on-the-music-industry" title="Torrenting and its effect on the music industry">Torrenting and its effect on the music industry &rarr;</a></li>
+      
+      </ul>
+    </div>
+    <hr>
+    
+  </div>
+  
+  <div class="span4">
+    <h4>Published</h4>
+    <div class="date"><span>20 August 2012</span></div>
+    <div class="rdbWrapper" data-show-read="1" data-show-send-to-kindle="1" data-show-print="0" data-show-email="0" data-orientation="0" data-version="1" data-bg-color="#fdfdfa"></div><script type="text/javascript">(function() {var s = document.getElementsByTagName("script")[0],rdb = document.createElement("script"); rdb.type = "text/javascript"; rdb.async = true; rdb.src = document.location.protocol + "//www.readability.com/embed.js"; s.parentNode.insertBefore(rdb, s); })();</script></div>
+</div>
+
+
+      </div>
+
+    </div> <!-- /container -->
+
+    
+
+    <!-- IDL code -->
+    <script type="text/javascript">
+        window._idl = {};
+        _idl.variant = "banner";
+        (function() {
+            var idl = document.createElement('script');
+            idl.type = 'text/javascript';
+            idl.async = true;
+            idl.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'members.internetdefenseleague.org/include/?url=' + (_idl.url || '') + '&campaign=' + (_idl.campaign || '') + '&variant=' + (_idl.variant || 'banner');
+            document.getElementsByTagName('body')[0].appendChild(idl);
+        })();
+    </script>
+    
+  </body>
+</html>
+
