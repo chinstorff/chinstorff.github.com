@@ -7,8 +7,8 @@ http://byte.bernsteinbear.com/atom.xml
 http://byte.bernsteinbear.com/photos/index.html
 http://byte.bernsteinbear.com/sitemap.txt
 http://byte.bernsteinbear.com/projects/index.html
+http://byte.bernsteinbear.com/blog/index.html
 http://byte.bernsteinbear.com/tags.html
-http://byte.bernsteinbear.com/archive/index.html
 
 http://byte.bernsteinbear.com/2013/04/why-the-lucky-stiff-is-back
 http://byte.bernsteinbear.com/2013/04/palo-alto-hackathon
@@ -31,7 +31,6 @@ http://byte.bernsteinbear.com/2012/03/palo-altos-meshnet-and-robotics
 http://byte.bernsteinbear.com/2012/03/cicada
 http://byte.bernsteinbear.com/2012/01/replicating-a-webfaction-site-on-tor
 http://byte.bernsteinbear.com/2011/12/winter-break
-http://byte.bernsteinbear.com/2011/12/messing-with-programmers-part-3
 http://byte.bernsteinbear.com/2011/11/messing-with-programmers-part-2
 http://byte.bernsteinbear.com/2011/11/trig-with-baked-goods
 http://byte.bernsteinbear.com/2011/11/python

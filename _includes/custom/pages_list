@@ -2,7 +2,7 @@
     <nav>
         <ul class="nav nav-pills nav-menu blog-navigation">
             <li class=""><a href="/projects">projects</a></li>
-            <li class=""><a href="/archive">blog</a></li>
+            <li class=""><a href="/blog">blog</a></li>
             <li class=""><a href="//photos.bernsteinbear.com">photos</a></li>
         </ul>
     </nav>
