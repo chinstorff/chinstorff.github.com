@@ -8,6 +8,7 @@ http://byte.bernsteinbear.com/photos/index.html
 http://byte.bernsteinbear.com/sitemap.txt
 http://byte.bernsteinbear.com/projects/index.html
 http://byte.bernsteinbear.com/blog/index.html
+http://byte.bernsteinbear.com/resume/index.html
 http://byte.bernsteinbear.com/tags.html
 
 http://byte.bernsteinbear.com/2013/04/why-the-lucky-stiff-is-back
