@@ -7,7 +7,6 @@ http://byte.bernsteinbear.com/atom.xml
 http://byte.bernsteinbear.com/photos/index.html
 http://byte.bernsteinbear.com/sitemap.txt
 http://byte.bernsteinbear.com/projects/index.html
-http://byte.bernsteinbear.com/about/index.html
 http://byte.bernsteinbear.com/archive.html
 http://byte.bernsteinbear.com/tags.html
 
