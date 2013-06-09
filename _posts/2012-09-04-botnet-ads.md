@@ -14,18 +14,10 @@ As of June 2012, the end of the school year last year, I was effective webmaster
 If you turn off your ad blocker, you can see it in action [here](http://palyvoice.com/2012/09/02/students-give-back-through-amigos-program/).
 
 In the first few days we had the ad, I was excited to even make pennies. After a few days, however, I realized that pennies wouldn't cover our monthly and annual expenses. My first thought was to sell ad spots to local businesses for around $500 a week. That sounds like a lot, but consider the followning:
-
-
-
 	
-  * Campanile (another Paly publication, except strictly print) sells roughly the same size ads for $200.
-
-	
-  * Campanile circulates for roughly 4 days.
-
-	
-  * Campanile has an audience of about 1000 people, total.
-
+    * Campanile (another Paly publication, except strictly print) sells roughly the same size ads for $200.
+    * Campanile circulates for roughly 4 days.
+    * Campanile has an audience of about 1000 people, total.
 
 Assuming we're going to scale the price up in a linear fashion, and reach the same number of people, we can charge $350 for a 24/7 ad spot. We don't, however, have the same reach. Voice gets about 1000 unique visitors per day, and about 15000 total views per month. We could easily charge over $500, but we wanted a nice, round number.
 

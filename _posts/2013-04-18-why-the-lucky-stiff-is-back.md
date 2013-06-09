@@ -12,4 +12,4 @@ It was a cryptic message:
 
 Some smart people figured out that it was an HP PCL file, and converted it into a PDF.
 
-Recently, _why has been uploading more and more of these files... and so I present to you a complete and live-updating collection of these files! Take a look [here](http://why.apps.hypeno.de).
+Recently, \_why has been uploading more and more of these files... and so I present to you a complete and live-updating collection of these files! Take a look [here](http://why.apps.hypeno.de).

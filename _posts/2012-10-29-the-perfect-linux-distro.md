@@ -42,24 +42,12 @@ I guess the OS really doesn't matter; one can fairly easily adapt to the differe
 What matters, as far as looks, is the DM/WM combo. Everything else is pretty consistent.
 
 Put concisely, a programmer's ideal environment would be as such (in no particular order):
-
-
-
 	
-  * Terminal always at the ready
-
-	
-  * Minimalist UI. Not overly pretty, but not as spartan as, say, Fluxbox or TWM.
-
-	
-  * Completely configurable UI, but configuration should be optional for the love of all that is holy. This is the reason I'm not particularly fond of installing Arch.
-
-	
-  * Emacs/Vim as an IDE — built-in compile and testing tools, as well as some basic functionality to compute runtime complexity of some functions.
-
-	
-  * Fast boot and log-in times.
-
+    * Terminal always at the ready
+    * Minimalist UI. Not overly pretty, but not as spartan as, say, Fluxbox or TWM.
+    * Completely configurable UI, but configuration should be optional for the love of all that is holy. This is the reason I'm not particularly fond of installing Arch.
+    * Emacs/Vim as an IDE — built-in compile and testing tools, as well as some basic functionality to compute runtime complexity of some functions.
+    * Fast boot and log-in times.
 
 Right now, my laptop has a good amount of those. Crunchbang was great for the stats - there was some awesome Openbox config.
 
