@@ -122,14 +122,14 @@ Nah, this isn't about singing. It's a web browser that does many things, includi
 
 **Anonymity**
 	
-    * [slashgeek.net](http://www.slashgeek.net/2012/06/15/how-to-be-completely-anonymous-online/)
-    * [jaywhale.com](http://www.jaywhale.com/how-to-make-an-anonymous-blog)
-    * [wikipedia.org](http://en.wikipedia.org/wiki/Anonymous_blogging)
-    * [boingboing.net](http://boingboing.net/2011/11/15/howto-be-more-anonymous-in-you.html)	
-    * [metafilter thread](http://ask.metafilter.com/95483/How-can-I-host-an-anonymous-Wordpress-blog-and-not-get-unmasked)
-    * [eff.org](https://www.eff.org/wp/blog-safely)
+* [slashgeek.net](http://www.slashgeek.net/2012/06/15/how-to-be-completely-anonymous-online/)
+* [jaywhale.com](http://www.jaywhale.com/how-to-make-an-anonymous-blog)
+* [wikipedia.org](http://en.wikipedia.org/wiki/Anonymous_blogging)
+* [boingboing.net](http://boingboing.net/2011/11/15/howto-be-more-anonymous-in-you.html)	
+* [metafilter thread](http://ask.metafilter.com/95483/How-can-I-host-an-anonymous-Wordpress-blog-and-not-get-unmasked)
+* [eff.org](https://www.eff.org/wp/blog-safely)
 
 
 **GPG**
 	
-    * [Complete tutorial](http://www.dewinter.com/gnupg_howto/english/GPGMiniHowto.html)
+* [Complete tutorial](http://www.dewinter.com/gnupg_howto/english/GPGMiniHowto.html)

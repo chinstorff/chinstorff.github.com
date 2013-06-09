@@ -17,9 +17,9 @@ Unfortunately for us, my parents had unwittingly locked us out of the house. We 
 
 We thought about our options:
 	
-    * Sleep outside, using whatever towels in the pool house as blankets
-    * Ring the doorbell
-    * Climb up the side of the house to my room's open window, pop the screen out, and let people in
+* Sleep outside, using whatever towels in the pool house as blankets
+* Ring the doorbell
+* Climb up the side of the house to my room's open window, pop the screen out, and let people in
 
 Nobody liked the first option, and the second option would have woken my siblings up. We chose the third option.
 
