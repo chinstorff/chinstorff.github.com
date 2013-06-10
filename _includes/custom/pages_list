@@ -1,8 +1,9 @@
-<div class="span4 offset5">
+<div class="span6 offset3" style="position: relative; right: -20px">
     <nav>
         <ul class="nav nav-pills nav-menu blog-navigation">
-            <li class=""><a href="/projects">projects</a></li>
             <li class=""><a href="/blog">blog</a></li>
+            <li class=""><a href="/projects">projects</a></li>
+            <li class=""><a href="/resume">resume</a></li>
             <li class=""><a href="//photos.bernsteinbear.com">photos</a></li>
         </ul>
     </nav>
