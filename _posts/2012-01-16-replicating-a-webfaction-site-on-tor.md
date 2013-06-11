@@ -16,9 +16,10 @@ If you have a website hosted on Webfaction (or any other name-based virtual host
 First, let's get some definitions straight.
 
 **name-based virtual host:** One user has a `/home/` partition. Each application(could be multiple domains) routes to a specific folder in `~/webapps/`.
+
 **Tor:** Service that allows your web traffic is sent through around three random computers before reaching its target, in order to preserve anonymity. Illustration (click to enlarge):
 
-[caption id="attachment_982" align="alignnone" width="300" caption="geekyschmidt.com"][![](/static/images/wp-content/uploads/2012/01/Tor-HTTP-Transmission-300x113.png)](/static/images/wp-content/uploads/2012/01/Tor-HTTP-Transmission.png)[/caption]
+![](/static/images/wp-content/uploads/2012/01/Tor-HTTP-Transmission-300x113.png)
 
 **.onion:** A domain that is resolved using a series of queries on the Tor network.
 
@@ -27,8 +28,6 @@ What we'll be doing is pointing all of the Tor traffic that comes to the .onion 
 I first contacted the Webfaction support staff to ask if this was allowed. I had to clarify several things:
 
 
-
-	
   1. I would not be needing a dedicated IP address
 
 	
@@ -38,10 +37,9 @@ I first contacted the Webfaction support staff to ask if this was allowed. I had
   3. This will not overload Webfaction with a barrage of traffic
 
 
-He (Ryan S) then OK'd my actions. I downloaded the source package from the [Download page](https://www.torproject.org/download/download.html.en), under "Source code."
+He (Ryan S) then OK'd my actions. I downloaded the source package from the [Download page](https://www.torproject.org/download/download.html.en), under "Source code."
 
 I unpacked, then ran:
-
     
     cd tor_folder/
     ./configure --prefix=$HOME
@@ -74,13 +72,9 @@ If you know what port and IP your server is running, then fantastic! Just leave 
 
 
 Otherwise, you have two options:
-
-
-
 	
   1. Start up another httpd, like `lighthttpd`, in the directory where your application is stored, and change `some_IP:port` to `localhost:whatever_port` to match that.
 
-	
   2. Contact support and figure out what you can do
 
 
@@ -93,13 +87,12 @@ I started Tor by running:
 
 
 And the process spewed out some stuff like this:
-[![](/static/images/wp-content/uploads/2012/01/Screen-shot-2012-01-16-at-4.15.23-PM-300x80.png)](/static/images/wp-content/uploads/2012/01/Screen-shot-2012-01-16-at-4.15.23-PM.png)
+
+![](/static/images/wp-content/uploads/2012/01/Screen-shot-2012-01-16-at-4.15.23-PM-300x80.png)
 
 Then, I opened up my Control Panel (Webfaction's unique panel), and configured my BernsteinBear website to also serve my .onion domain. I just added a domain (`.onion`)
-
     
     cat ~/path_to_tor/config_dir/hostname
-
 
 To see what's in it.
 
