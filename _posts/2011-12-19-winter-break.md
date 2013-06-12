@@ -111,7 +111,8 @@ After the hike, we had lunch on the rocks (just cheese&arugula; sandwiches, but 
 
 **Day 10**
 We left Los Cerros, and drove 8 hours to a remote part in Chile; the nearest village was two hours away. We stayed in Patagonia Camp, a collection of yurts! For those of you unfamiliar with yurts, they look like this:
-[caption id="attachment_906" align="alignnone" width="300" caption="go-south-adventures.com"][![](/static/images/wp-content/uploads/2011/12/Patagonia-Camp-Yurt-300x200.jpg)](/static/images/wp-content/uploads/2011/12/Patagonia-Camp-Yurt.jpg)[/caption]
+
+![](/static/images/wp-content/uploads/2011/12/Patagonia-Camp-Yurt-300x200.jpg)
 
 We hiked some more, on the right hand side of a 4 day trail called the "w" for its shape around the peaks in the park.
 
@@ -124,5 +125,10 @@ Took a 4 hour flight to Santiago, from there to Dallas, and then to SFO. It's go
 
 These photos were either taken from a website (and cited) or by Rebecca, Emma, my father (Stuart), or me.
 
+<script type="text/javscript" src="{{ ASSET_PATH }}/js/galleria/galleria-1.2.9.min.js"></script>
+
+<div id="galleria">
+  
+<div>
 [gallery link="file" order="ASC" orderby="post_date"]
 
