@@ -305,4 +305,23 @@ def get_stdin(message)
 end
 
 #Load custom rake scripts
-Dir['_rake/*.rake'].each { |r| load r }
+#Dir['_rake/*.rake'].each { |r| load r }
+task :np do
+  OptionParser.new.parse!
+  ARGV.shift
+  title = ARGV.join(' ')
+
+  path = "_posts/#{Date.today}-#{title.downcase.gsub(/[^[:alnum:]]+/, '-')}.markdown"
+  
+  if File.exist?(path)
+     puts "[WARN] File exists - skipping create"
+  else
+    File.open(path, "w") do |file|
+      file.puts YAML.dump({'layout' => 'post', 'published' => false, 'title' => title})
+      file.puts "---"
+    end
+  end
+  `emacs #{path}`
+
+  exit 1
+end
