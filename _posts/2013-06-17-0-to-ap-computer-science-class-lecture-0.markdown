@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: '0 to AP Computer Science Class: Lecture 0'
 ---
 
@@ -16,7 +16,7 @@ title: '0 to AP Computer Science Class: Lecture 0'
 <body>
   <div class="flowplayer" data-swf="flowplayer.swf" data-ratio="0.4167">
     <video>
-      <source type="video/mp4" src="/static/mov/lecture1.mov">
+      <source type="video/mp4" src="/static/mov/lecture0.mov">
     </video>
   </div>
 </body>
