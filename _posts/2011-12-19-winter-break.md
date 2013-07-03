@@ -128,7 +128,7 @@ These photos were either taken from a website (and cited) or by Rebecca, Emma, m
 <script type="text/javscript" src="{{ ASSET_PATH }}/js/galleria/galleria-1.2.9.min.js"></script>
 
 <div id="galleria">
-  
-<div>
+  *gallery coming soon*
+</div>
 [gallery link="file" order="ASC" orderby="post_date"]
 
