@@ -38,7 +38,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : 'disqus'
+    provider : disqus
     disqus :
       short_name : 'tekknolagi'
    
@@ -47,7 +47,7 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : 'google'
+    provider : google
     google : 
         tracking_id : 'UA-26440738-1'
 	domain_name : 'bernsteinbear.com'
