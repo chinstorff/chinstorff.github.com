@@ -130,5 +130,5 @@ These photos were either taken from a website (and cited) or by Rebecca, Emma, m
 <div id="galleria">
   *gallery coming soon*
 </div>
-[gallery link="file" order="ASC" orderby="post_date"]
+<!-- \[gallery link="file" order="ASC" orderby="post_date"\] -->
 

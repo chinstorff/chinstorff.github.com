@@ -21,6 +21,5 @@ I installed Linux Mint on it (pretty easy on the eyes), completely wiping Window
 
 In a few months I'll post again with an update, but for now it's working swell. I love my desktop theme!
 
-[![](/static/images/wp-content/uploads/2012/10/2012-10-16-104630_1024x600_scrot.png)](/static/images/wp-content/uploads/2012/10/2012-10-16-104630_1024x600_scrot.png)
-
+![](/static/images/wp-content/uploads/2012/10/2012-10-16-104630_1024x600_scrot.png)]
 

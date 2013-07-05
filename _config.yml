@@ -4,7 +4,6 @@
 permalink: /:year/:month/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-auto: true
 pygments: true
 
 # Themes are encouraged to use these universal variables 
@@ -50,8 +49,8 @@ JB :
   analytics :
     provider : false
     google : 
-        tracking_id : 'UA-26440738-1'
-	domain_name : 'bernsteinbear.com'
+      tracking_id : 'UA-26440738-1'
+      domain_name : 'bernsteinbear.com'
 
   # Settings for sharing helper. 
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
