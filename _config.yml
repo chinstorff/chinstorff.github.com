@@ -18,7 +18,6 @@ author :
   twitter : mrmaxbernstein
 
 production_url : http://bernsteinbear.com
-safe : true
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
