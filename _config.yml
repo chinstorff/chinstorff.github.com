@@ -18,6 +18,7 @@ author :
   twitter : mrmaxbernstein
 
 production_url : http://bernsteinbear.com
+safe : true
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -47,7 +48,7 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : false
+    provider : google
     google : 
       tracking_id : 'UA-26440738-1'
       domain_name : 'bernsteinbear.com'
