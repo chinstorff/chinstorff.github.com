@@ -37,9 +37,9 @@ h4 {
     font-weight: 400;
 }
 
-li {
-/*    font-size:20px;
-    line-height:25px; */
+ul.nav li, .pagination li {
+    font-size:20px;
+    line-height:25px;
 }
 
 p {
