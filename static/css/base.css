@@ -113,6 +113,7 @@
 	ul ul li, ul ol li
 	ol ol li, ol ul li { margin-bottom: 6px; }
 /*	li { line-height: 23px; } */
+	li { line-height: 25px; font-size: 1.5em; }
 	ul.large li { line-height: 32px; }
 	li p { line-height: 21px; }
 	
