@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: On test driven development
 ---
 
