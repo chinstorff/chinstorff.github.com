@@ -116,6 +116,7 @@
 	li { line-height: 25px; font-size: 1.5em; }
 	ul.large li { line-height: 32px; }
 	li p { line-height: 21px; }
+	dd ul li { font-size: 18px; }
 	
 /* #Images
 ================================================== */

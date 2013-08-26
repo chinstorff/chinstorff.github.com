@@ -116,3 +116,7 @@ p {
     margin-right: auto;
 
 }
+
+dd ul li {
+    font-size: 18px;
+}
