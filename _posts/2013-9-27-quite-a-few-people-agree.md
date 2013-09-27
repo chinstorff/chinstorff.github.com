@@ -8,13 +8,13 @@ Quite a few people agree that John Green looks like me.
 
 A few days ago, I published [this post](http://chinstorff.com/blog/john-green-looks-like-me) on my blog. I posted links to my article on Facebook and on [Reddit](http://redd.it/1n37nv). Much to my surprise and much to my excitement, people from all over the world read my writing.
 
-Thanks to the magic of [Google Analytics](http://analytics.google.com), I know how many people viewed my site.
+Thanks to the magic of [Google Analytics](http://analytics.google.com), I know how many people viewed my site. This data is from September 24th - September 26th.
 
 ![You can't see this image, so this post must be dreadfully boring for you.](/static/images/blog_analytics/stats.png "Holy guacamole!")
 
 Twenty five hundred different people. Nearly four thousand total page views. Wow.
 
-The following is a graph of visits per hour from 9/24 - 9/26.
+The following is a graph of visits per hour.
 
 ![You can't see this graph either!](/static/images/blog_analytics/visits.png)
 
