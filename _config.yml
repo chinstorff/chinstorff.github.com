@@ -1,6 +1,7 @@
+markdown: redcarpet
+
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-
 permalink: /blog/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
@@ -12,8 +13,8 @@ pygments: true
 title : Christopher Hinstorff
 tagline: But you can call me Chris.
 author :
-  name : Chris Hinstorff
-  email : christopherhinstorff@me.com
+  name : Christopher Hinstorff
+  emal : christopherhinstorff@me.com
   github : chinstorff
   twitter : chinstorff
 
