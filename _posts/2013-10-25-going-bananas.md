@@ -17,7 +17,7 @@ While helping the customer in front of me, the cashier looked at me and made a f
 Once the previous customer was finished, it was finally time to buy all of those bananas. The cashier asked me a one word question, "Why?"
 I gave him my only possible response, "Bananas."
 
-He prodded for more information which I gave to him. I was buying bananas for the purpose of giving away to advertise for [shareabanana.com](shareabanana.com), the website a friend and I made half a year before. Mr. Cashier seemed confused. He looked at me and said, "So it's a joke, right?"
+He prodded for more information which I gave to him. I was buying bananas for the purpose of giving away to advertise for [shareabanana.com](http://shareabanana.com), the website a friend and I made half a year before. Mr. Cashier seemed confused. He looked at me and said, "So it's a joke, right?"
 
 No, it wasn't a joke, but class was going to start in five minutes and I didn't have time for a discussion. My answer was the English language's only double positive with a positive meaning delivered in a completely non-sarcastic manner, "Yeah, right."
 
