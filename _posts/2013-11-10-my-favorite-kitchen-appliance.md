@@ -10,7 +10,7 @@ For over sixteen years, I felt like there was something missing in my life. I sp
 
 After I realized that I needed a favorite appliance, I had to find out which one I liked the best.
 
-Refridgerator? Nope. The refridgerator's job is to keep food cold so that it doesn't go bad. When I leave my beef and anchovy cassarole in the fridge, it goes bad within a week. The refridgerator can't complete it's sole task.
+Refrigerator? Nope. The refrigerator's job is to keep food cold so that it doesn't go bad. When I leave my beef and anchovy cassarole in the fridge, it goes bad within a week. The refrigerator can't complete its sole task.
 
 Dishwasher? Nope. I don't know what goes on once the door is closed. After I put in the dishwashing detergent, press a few buttons, and close the door, the plates, cups, and cutlery are somehow (magically) cleaned! My favorite appliance can't be one that I don't understand or trust.
 
