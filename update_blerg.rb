@@ -22,6 +22,7 @@ def translate_file from
           t += l[(l.index('](')+1)..l.index(')')]
           l = l[(l.index(')')+1)..-1]
         end
+        t += Ermahgerd.translate l
         outdata += t
       else
         outdata += Ermahgerd.translate l
