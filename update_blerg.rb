@@ -12,7 +12,7 @@ def translate_file from
     if i == 3
       outdata += "title: "
       outdata += Ermahgerd.translate l[7..-1]
-    elsif i <= 5
+    elsif i <= 5 or l[0] == '<'
       outdata += l
     else
       if l.include? '](' and l.include? ')'
