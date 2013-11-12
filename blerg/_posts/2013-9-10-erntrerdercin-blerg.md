@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: I JERST STERTERD A BLERG!
+title: I jerst sterterd a blerg!
 ---
 
-I DERN'T HERV ERNERTHIN TER WRERT ERBERT ERT, BERT MAH BLERG PERG LERKERD WER TER ERMPTER.
+I dern't herv ernerthin ter wrert erbert ert, bert mah blerg perg lerkerd wer ter ermpter.

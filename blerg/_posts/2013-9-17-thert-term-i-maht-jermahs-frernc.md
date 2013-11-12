@@ -1,25 +1,25 @@
 ---
 layout: post
 published: true
-title: THERT TERM I MAHT JERMAHS FRERNC
+title: Thert term I maht Jermahs Frernc
 ---
 
-MAH 13TH, 2013 STERTERD LERK ERNER ERTHER MAHNDER. I WERNT TER MAH CLERSERS ERS ERSERL THRERGHERT DA DER. ERFTER LERNCH, I WERNT TER INLERSH CLERS.
+Mah 13th, 2013 sterterd lerk erner erther Mahnder. I wernt ter mah clersers ers erserl threrghert da der. Erfter lernch, I wernt ter Inlersh clers.
 
-THERT DER, ERN INLERSH CLERS, WER WERERN'T WRERTIN ERSERS ER DIN "BERIN" THINS LERK THERT. WER WER LERNIN ERBERT SERX ERN DA MAHDER. 
+Thert der, ern Inlersh clers, wer werern't wrertin ersers er din "berin" thins lerk thert. Wer wer lernin erbert serx ern da mahder. 
 
-THRERGHERT DA CLERS PERERD, WER WER WERTCHIN ERNTERERSTIN VERDERS ERND HERVIN MAHNINFERL DERSCERSERNS TER HERLP FERMAHLERT ER ERPERNERNS ERN THERS ERSER. WERTH NER WERNIN, I HER A ERL: "ERS THERT JERMAHS FRERNC?"
+Threrghert da clers pererd, wer wer wertchin erntererstin verders ernd hervin mahninferl derscerserns ter herlp fermahlert er erpernerns ern thers erser. Werth ner wernin, I her a erl: "Ers thert Jermahs Frernc?"
 
-ERT WERS WERL KNERN ERERND SCHERL THERT MR. FRERNC WERS BERCK ERN TERN ERND VERSERTIN ER SCHERL, HERS ERLM MAHTER. STERDERNTS WER ERN ERLERT FER ERNER SERGHTIN ERF HERM, ERT ERT STERL CERM ERS A SERPRERS WHERN WER SERW HERM WERLK PERST ER CLERSRERM DER TERLKIN TER A ERN-PERSERN FERLM CRERW. 
+Ert wers werl knern erernd scherl thert Mr. Frernc wers berck ern tern ernd versertin er scherl, hers erlm mahter. Sterdernts wer ern erlert fer erner serghtin erf herm, ert ert sterl cerm ers a serprers whern wer serw herm werlk perst er clersrerm der terlkin ter a ern-persern ferlm crerw. 
 
-ER TERCHER RERSHERD ERT ERND CERERLERD HERM ERNT DA CLERSRERM. ERFTER MR. FRERNC RERLERCTERNTLER QERTERD DA SCRERMAHNG FINERLS ERMAHNG ERS, HER ERSKERD ERS WHERT WER WER LERNIN ERBERT ERN CLERS.
+Er tercher rersherd ert ernd cererlerd herm ernt da clersrerm. Erfter Mr. Frernc rerlercterntler qerterd da scrermahng finerls ermahng ers, her erskerd ers whert wer wer lernin erbert ern clers.
 
-BERCERS ERCTERS SPERND THER CERERS TERLKIN ERND PERFERMAHNG ERN DA PERBLERC ER, ERT ERS NERTERERL TER ERSERM THERT DEY ER ERTERCERLERT ERND ERLERQERNT SPERKERS. THERS ERSERMPTERN HERLDS TRER FER MAHNER ERCTERS. ERNFERTERNERTERLER FER MR. FRERNC, HER ERS NERT ERN ERF THERM.
+Bercers ercters spernd ther cerers terlkin ernd perfermahng ern da perblerc er, ert ers nertererl ter erserm thert dey er ertercerlert ernd erlerqernt sperkers. Thers ersermptern herlds trer fer mahner ercters. Ernferternerterler fer Mr. Frernc, her ers nert ern erf therm.
 
-ERFTER LERNIN DA TERPERC ERF ER DERSCERSERN, MR. FRERNC PRERCERDERD TER DERLERVER DA FLERTERST, MAHST VERPED SPERCH THERT I HERV ERVER HERD DA MAHSFERTERN TER ERXPERERNC.
+Erfter lernin da terperc erf er derscersern, Mr. Frernc prercerderd ter derlerver da flerterst, mahst verped sperch thert I herv erver herd da mahsfertern ter erxperernc.
 
-HER TERLD ERS THERT ERVER SERXERLERZERTERN ERN DA MAHDER ERS BERD. I KNER THERS DERSCRERPTERN SERNDS LERK A SERMAHRER, BERT ERT WERS ERN FERCT HERS ERNTER PERSERTERN ERN DA ERSER.
+Her terld ers thert erver serxerlerzertern ern da mahder ers berd. I kner thers derscrerptern sernds lerk a sermahrer, bert ert wers ern ferct hers ernter persertern ern da erser.
 
-WERS THERN HERS SPERCH'S CERNTERNT WERS HERS DERLERVERER. HERS DERLERVERER CERNVERNCERD ER CLERS THERT HER WERS SPERKIN ERNDER DA ERNFLERNC ERF RERCRERTERNERL DRERGS.
+Wers thern hers sperch's cernternt wers hers derlerverer. Hers derlerverer cernverncerd er clers thert her wers sperkin ernder da ernflernc erf rercrerternerl drergs.
 
-ERFTER LERTIN DA FINERLS ERMAHNG ERS PERNDER HERS ERG A SHERT WHERL LINER WERTH PERCTERERS ERND HERGS, MR. FRERNC ERND HERS ERN-MAHN CERMAHR CRERW BERT A HERSTER RERTRERT, NERVER TER BER SERN ERGERN ERN ER CLERSRERM.
+Erfter lertin da finerls ermahng ers pernder hers erg a shert wherl liner werth percterers ernd hergs, Mr. Frernc ernd hers ern-mahn cermahr crerw bert a herster rertrert, nerver ter ber sern ergern ern er clersrerm.

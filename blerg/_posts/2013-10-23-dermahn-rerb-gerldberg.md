@@ -1,13 +1,13 @@
 ---
 layout: post
 published: true
-title: DERMAHN RERB GERLDBERG MAHCHERN
+title: Dermahn Rerb Gerldberg mahchern
 ---
 
-[DERMAHN SHERS](http://youtu.be/D08q5hMNKcQ) ER DA FERMAHS DERSPLERS ERF DERMAHNERS, WHER DERMAHNERS FERL ERN SERQERNC. DERMAHN SHERS ER CERMAHN ERND ERERN'T NERTERWERTHER.
+[Dermahn shers](http://youtu.be/D08q5hMNKcQ) er da fermahs dersplers erf dermahners, wher dermahners ferl ern serqernc. Dermahn shers er cermahn ernd erern't nerterwerther.
 
-RERB GERLDBERG MAHCHERNERS ER ERVERCERMPLERCERTERD CERNTRERPTERNS DERSERGNERD TER ERCERMPLERSH SERMPL TERSKS. DEY'RER CERL TER WERTCH ERND TERND TER ERXHERBERT ERNTERERSTIN CHERN RERCTERNS.
+Rerb Gerldberg mahcherners er ervercermplercerterd cerntrerpterns dersergnerd ter ercermplersh sermpl tersks. Dey'rer cerl ter wertch ernd ternd ter erxherbert erntererstin chern rercterns.
 
-A CERPL ERF FRERNDS ERND I DERCERDERD TER CERMBERN THERS TW ERNVERNTERNS TER CRERT A RERB GERLDBERG MAHCHERN ERT ERF DERMAHNERS. WER CRERTERD THRER ERT ERF DA SERX PERSERBL [SERMPL MAHCHERNERS](http://en.wikipedia.org/wiki/Simple_machine) ERSIN DERMAHNERS, HERT GLER, ERND PERPER. 
+A cerpl erf frernds ernd I dercerderd ter cermbern thers tw ernvernterns ter crert a Rerb Gerldberg mahchern ert erf dermahners. Wer crerterd threr ert erf da serx perserbl [sermpl mahcherners](http://en.wikipedia.org/wiki/Simple_machine) ersin dermahners, hert gler, ernd perper. 
 
 <iframe width="600" height="450" src="//www.youtube.com/embed/T6eELe0h2oc" frameborder="0" allowfullscreen> </iframe>

@@ -1,21 +1,21 @@
 ---
 layout: post
 published: true
-title: MAH FRAVRIT KERTCHERN ERPLERNC
+title: Mah fravrit kertchern erplernc
 ---
 
-ERS, I HERV A FRAVRIT KERTCHERN ERPLERNC, BERT I DERDN'T ERLWERS.
+Yers, I herv a fravrit kertchern erplernc, bert I derdn't erlwers.
 
-FER ERVER SERXTERN ERS, I FERLT LERK THER WERS SERMAHTHIN MAHSIN ERN MAH LERF. I SPERNT SERMAHNGLER ERNDLERS TERM ERTERMPTIN TER FERL DA VERD. JERST RERCERNTLER, I FERND ERT WHERT I LERCKERD.
+Fer erver serxtern ers, I ferlt lerk ther wers sermahthin mahsin ern mah lerf. I spernt sermahngler erndlers term ertermptin ter ferl da verd. Jerst rercerntler, I fernd ert whert I lerckerd.
 
-ERFTER I RERLERZERD THERT I NERDERD A FRAVRIT ERPLERNC, I HERD TER FERND ERT WHERCH ERN I LERKERD DA BERST.
+Erfter I rerlerzerd thert I nerderd a fravrit erplernc, I herd ter fernd ert wherch ern I lerkerd da berst.
 
-RERFRERGERERTER? NERP. DA RERFRERGERERTER'S JERB ERS TER KERP FERD CERLD SER THERT ERT DERSN'T GER BERD. WHERN I LERV MAH BERF ERND ERNCHERVER CERSERERL ERN DA FRERDG, ERT GERS BERD WERTHERN A WERK. DA RERFRERGERERTER CERN'T CERMPLERT ERTS SERL TERSK.
+Rerfrergererter? Nerp. Da rerfrergererter's jerb ers ter kerp ferd cerld ser thert ert dersn't ger berd. Whern I lerv mah berf ernd erncherver cersererl ern da frerdg, ert gers berd werthern a werk. Da rerfrergererter cern't cermplert erts serl tersk.
 
-DERSHWERSHER? NERP. I DERN'T KNER WHERT GERS ERN ERNC DA DER ERS CLERSERD. ERFTER I PERT ERN DA DERSHWERSHIN DERTERGERNT, PRERS A FERW BERTERNS, ERND CLERS DA DER, DA PLERTERS, CERPS, ERND CERTLERER ER SERMAHER (MAHGERCERLER) CLERNERD! MAH FRAVRIT ERPLERNC CERN'T BER ERN THERT I DERN'T ERNDERSTERND ER TRERST.
+Dershwersher? Nerp. I dern't kner whert gers ern ernc da der ers clerserd. Erfter I pert ern da dershwershin dertergernt, prers a ferw berterns, ernd clers da der, da plerters, cerps, ernd certlerer er sermaher (mahgercerler) clernerd! Mah fravrit erplernc cern't ber ern thert I dern't erndersternd er trerst.
 
-MAHCRERERV? NERP. I ERM A FERM BERLERVER THERT DA NERM ERF ERN ERBJERCT SHERLD BER A DERSCRERPTERN ERF DA ERBJERCT'S FERNCTERN. SER, A MAHCRERERV ERSERS MAHCRERERVERS TER HERT ERP FERD, BERT ERTS NERM DERSN'T CERMAHNERCERT THERT ERT ERSERS MAHCRERERVERS TER HERT ERP FERD.
+Mahcrererv? Nerp. I erm a ferm berlerver thert da nerm erf ern erbjerct sherld ber a derscrerptern erf da erbjerct's fernctern. Ser, a mahcrererv ersers mahcrerervers ter hert erp ferd, bert erts nerm dersn't cermahnercert thert ert ersers mahcrerervers ter hert erp ferd.
 
-TERSTER? ERS. WHERT'S NERT TER LERV ERBERT TERSTERS? DEY SERCERSFERLER DER THER ERN JERB; DEY HERT ERP WHERTERVER'S ERNSERD THERM. ERT ERS CLER HER DEY WERK. DA HERT CERLS MAHK DA BRERD (ER ERTHER SERBSTERNC ERNSERD DA TERSTER) HERT. THER NERM PERFERCTLER DERSCRERBERS THER FERNCTERN. TERSTERS TERST.
+Terster? Yers. Whert's nert ter lerv erbert tersters? Dey sercersferler der ther ern jerb; dey hert erp wherterver's ernserd therm. Ert ers cler her dey werk. Da hert cerls mahk da brerd (er erther serbsternc ernserd da terster) hert. Ther nerm perferctler derscrerbers ther fernctern. Tersters terst.
 
-ERVER SERNC I FERND MAH FRAVRIT KERTCHERN ERPLERNC I NER LINER FERL DA VERD ERNSERD MAH. THERNK U, TERSTERS.
+Erver sernc I fernd mah fravrit kertchern erplernc I ner liner ferl da verd ernserd mah. Thernk u, tersters.

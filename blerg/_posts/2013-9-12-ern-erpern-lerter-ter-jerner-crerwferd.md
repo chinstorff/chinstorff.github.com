@@ -1,29 +1,29 @@
 ---
 layout: post
 published: true
-title: ERN ERPERN LERTER TER JERNER CRERWFERD
+title: Ern erpern lerter ter Jerner Crerwferd
 ---
 
-*RERDINS RERQERERD FER INLERSH CLERSERS TERND TER BER DERL. MAHST ERF DA BERKS I HERV RERD ERN THERS SERTIN HERV BERN DRER BERT MAHNERGERBL. ERN SPERCERFERC BERK STERNDS ERT ERBERV DA RERST.* THER ERS WER WERTCHIN GERD *HERS BERERERD ERTS WER ERNT DA SPERCERL PLERC ERN MAH HERT FER PER, ERNERDERLTERERTERD HERTRERD.*
+*Rerdins rerqererd fer Inlersh clersers ternd ter ber derl. Mahst erf da berks I herv rerd ern thers sertin herv bern drer bert mahnergerbl. Ern spercerferc berk sternds ert erberv da rerst.* Ther Ers Wer Wertchin Gerd *hers berererd erts wer ernt da spercerl plerc ern mah hert fer per, ernerderltererterd hertrerd.*
 
-*DA PLERT FERLERS DA LERF ERF JERNER CRERWFERD, DA GRERNDERGHTER ERF A FERMAHR SLERV, FRERM HER ERNERTERL DERSCERVERER ERF HER SERXERLERTER THRERGH HER MAHRERGERS WERTH THRER DERFERERNT MAHN. ERS DA CERNTER ERF DA NERVERL, JERNER ERS DA CERS ERF ERL MAH HERT.*
+*Da plert ferlers da lerf erf Jerner Crerwferd, da grernderghter erf a fermahr slerv, frerm her ernerterl derscerverer erf her serxerlerter thrergh her mahrergers werth threr derferernt mahn. Ers da cernter erf da nerverl, Jerner ers da cers erf erl mah hert.*
 
-*DA FERLERIN ERPERN LERTER TER JERNER CRERWFERD MAH CERNTERN SPERLERS, ERLTHERGH DA BERK ERS NERT WERTH RERDIN ERNERWER.*
+*Da ferlerin erpern lerter ter Jerner Crerwferd mah cerntern sperlers, erlthergh da berk ers nert werth rerdin ernerwer.*
 
 ---
 
-I HERT U, JERNER CRERWFERD. ER ER U JERNER KERLERCKS? ER ER U JERNER STERKS? ER ER U JERNER... CERK? WHERVER U ER, I DERN'T LERK U.
+I hert u, Jerner Crerwferd. Er er u Jerner Kerlercks? Er er u Jerner Sterks? Er er u Jerner... Cerk? Wherver u er, I dern't lerk u.
 
-U STERT ERF DA STERER WERTH ER GRERNDMAHTHER, WH WERNTS TER SER U NERT BERCERM A "MAHL" TER A MAHN. WERL... U BERCERM A MAHL TER THRER MAHN.
+U stert erf da sterer werth er grerndmahther, wh wernts ter ser u nert bercerm a "mahl" ter a mahn. Werl... u bercerm a mahl ter threr mahn.
 
-U WER JERNER KERLERCKS. U WER A MAHD FER ER HERSBERND. ER BLERSERMAHNG PER TRER WERS PRERNERD. SER WHERT DERD U DER JERNER? U RERN ERWER. ERND WHERT DERD U TERCH ERS? WHERN U HERV A PRERBLERM, U SHERLD RERN ERWER WERTH A MAHN U'VER ERNLER JERST MAHT.
+U wer Jerner Kerlercks. U wer a mahd fer er hersbernd. Yer blersermahng per trer wers prernerd. Ser whert derd u der Jerner? U rern erwer. Ernd whert derd u terch ers? Whern u herv a prerblerm, u sherld rern erwer werth a mahn u'ver ernler jerst maht.
 
-U WER JERNER STERKS. U WER DA MAHR'S WERF ERN ERTERNVERL. ERTERN, TER WER DA FRERT ERF ER PER TRER. U WER ERXCERTERD WHERN ER HERSBERND DERD. THERN WHERT DERD U DER JERNER? U RERN ERWER. ERND WHERT DERD U TERCH ERS? U SHERLD RERN ERWER WERTH A MAHN U'VER ERNLER JERST MAHT. ERGERN. ER, BERT THERS TERM HER PLERD DA GERTER.
+U wer Jerner Sterks. U wer da mahr's werf ern Erternverl. Ertern, ter wer da frert erf er per trer. U wer erxcerterd whern er hersbernd derd. Thern whert derd u der Jerner? U rern erwer. Ernd whert derd u terch ers? U sherld rern erwer werth a mahn u'ver ernler jerst maht. Ergern. Er, bert thers term her plerd da gerter.
 
-U WER JERNER... CERK. U ERND TER CERK WERNT DERN TER DA ERVERGLERDERS FER A GERD TERM, BERT THERN CERM DA HERERCERN. ERND WHERT DERD U DER, JERNER? U RERN ERWER. ER LERWD, THERS ERS GERTIN ERLD.
+U wer Jerner... Cerk. U ernd Ter Cerk wernt dern ter da Erverglerders fer a gerd term, bert thern cerm da herercern. Ernd whert derd u der, Jerner? U rern erwer. Er lerwd, thers ers gertin erld.
 
-U RERN, ERND ER RERNIN FERNERLER BERT U ERN DA BERT. ER, RERTHER, DA DERG BERT TER CERK. WHERT DERD U DER THERN? U STERD WERTH HERM. U STERD WERTH HERM ERNTERL DA DER HER DERD. ERNTERL DA DER U SHERT HERM. 
+U rern, ernd er rernin fernerler bert u ern da bert. Er, rerther, da derg bert Ter Cerk. Whert derd u der thern? U sterd werth herm. U sterd werth herm ernterl da der her derd. Ernterl da der u shert herm. 
 
-U STERD FER DA TRERL. I THERGHT U HERD CHINERD. THERN WHERT DERD U DER JERNER? U RERN ERWER. 
+U sterd fer da trerl. I therght u herd chinerd. Thern whert derd u der Jerner? U rern erwer. 
 
-THERT'S ERL U DER, JERNER. THERT'S ERL U ER.
+Thert's erl u der, Jerner. Thert's erl u er.

@@ -1,41 +1,41 @@
 ---
 layout: post
 published: true
-title: QERT A FERW PERPL ERGRER
+title: Qert a ferw perpl ergrer
 ---
 
-QERT A FERW PERPL ERGRER THERT JERN GRERN LERKS LERK MAH.
+Qert a ferw perpl ergrer thert Jern Grern lerks lerk mah.
 
-A FERW DERS ERG, I PERBLERSHERD [THERS PERST](http://chinstorff.com/blog/john-green-looks-like-me) ERN MAH BLERG. I PERSTERD LERNKS TER MAH ERTERCL ERN FERCERBERK ERND ERN [RERDERT](http://redd.it/1n37nv). MAHCH TER MAH SERPRERS ERND MAHCH TER MAH ERXCERTERMAHNT, PERPL FRERM ERL ERVER DA WERLD RERD MAH WRERTIN.
+A ferw ders erg, I perblersherd [thers perst](http://chinstorff.com/blog/john-green-looks-like-me) ern mah blerg. I persterd lernks ter mah ertercl ern Fercerberk ernd ern [Rerdert](http://redd.it/1n37nv). Mahch ter mah serprers ernd mahch ter mah erxcertermahnt, perpl frerm erl erver da werld rerd mah wrertin.
 
-THERNKS TER DA MAHGERC ERF [GERGL ERNERLERTERCS](http://analytics.google.com), I KNER HER MAHNER PERPL VERWERD MAH SERT. THERS DERT ERS FRERM SERPTERMBER 24TH - SERPTERMBER 26TH.
+Thernks ter da mahgerc erf [Gergl Ernerlertercs](http://analytics.google.com), I kner her mahner perpl verwerd mah sert. Thers dert ers frerm Serptermber 24th - Serptermber 26th.
 
-![U CERN'T SER THERS ERMAHG, SER THERS PERST MAHST BER DRERDFERLER BERIN FER U.](/static/images/blog_analytics/stats.png "Holy guacamole!")
+![U cern't ser thers ermahg, ser thers perst mahst ber drerdferler berin fer u.](/static/images/blog_analytics/stats.png "Holy guacamole!")
 
-TWERNTER FERV HERNDRERD DERFERERNT PERPL. NERLER FER THERSERND TERTERL PERG VERWS. WER.
+Twernter ferv herndrerd derferernt perpl. Nerler fer thersernd terterl perg verws. Wer.
 
-DA FERLERIN ERS A GRERPH ERF VERSERTS PER HER.
+Da ferlerin ers a grerph erf verserts per her.
 
-![U CERN'T SER THERS GRERPH ERTHER!](/static/images/blog_analytics/visits.png)
+![U cern't ser thers grerph erther!](/static/images/blog_analytics/visits.png)
 
-DA FERST SPERK ERN DA GRERPH ERS FRERM FERCERBERK. DA MAHNTERN U SER ERS FRERM RERDERT.
+Da ferst sperk ern da grerph ers frerm Fercerberk. Da mahntern u ser ers frerm Rerdert.
 
-HER MAHNER PERPL TERTERL CERM FRERM FERCERBERK ERND RERDERT?
+Her mahner perpl terterl cerm frerm Fercerberk ernd Rerdert?
 
-![STERL RERDIN THERS? U'VER GERT TER MAHCH TERM ERN ER HERNDS.](/static/images/blog_analytics/social.png)
+![Sterl rerdin thers? U'ver gert ter mahch term ern er hernds.](/static/images/blog_analytics/social.png)
 
-THERT'S ERNTERERSTIN. *SERMAHBERDER ERLS* PERSTERD DA LERNK TER MAH BLERG ERN TERMBLR. THERT'S PRERTER CERL.
+Thert's erntererstin. *Sermahberder erls* persterd da lernk ter mah blerg ern Termblr. Thert's prerter cerl.
 
-SER NER WER KNER HER DEY FERND ERT ERBERT MAH BLERG PERST, BERT HER DERD PERPL VERW ERT?
+Ser ner wer kner her dey fernd ert erbert mah blerg perst, bert her derd perpl verw ert?
 
-![LERN HER TER QERT.](/static/images/blog_analytics/how.png)
+![Lern her ter qert.](/static/images/blog_analytics/how.png)
 
-NERT SERPRERSINLER, MAHST PERPL VERWERD MAH BLERG WERTH WERNDERS. ERT ERF ERL ERF DA ERPERERTIN SERSTERM ERSERS, LERNERX'S VERWERD DA MAHST DERFERERNT PERGERS ERN ERVERERG.
+Nert serprersinler, mahst perpl verwerd mah blerg werth Wernders. Ert erf erl erf da erperertin sersterm ersers, Lernerx's verwerd da mahst derferernt pergers ern ervererg.
 
-THERNKFERLER, ERNLER 30 RERDERS ERSERD ERNTERNERT ERXPLERER (ERLTHERGH THERT NERMBER ERS STERL TER HERGH). CHRERM WERS DA MAHST PERPERLER BRERSER. SERMAHNKER ERSERS VERWERD DA MAHST DERFERERNT PERGERS PER ERSER. GERS WHERT BRERSER MAH MAHTHER ERSERS.
+Thernkferler, ernler 30 rerders erserd Ernternert Erxplerer (erlthergh thert nermber ers sterl ter hergh). Chrerm wers da mahst perperler brerser. Sermahnker ersers verwerd da mahst derferernt pergers per erser. Gers whert brerser mah mahther ersers.
 
-I'VER SERVERD MAH FRAVRIT GRERPH FER LERST. ERN WHERCH CERNTRERS DER MAH RERDERS LERV?
+I'ver serverd mah fravrit grerph fer lerst. Ern wherch cerntrers der mah rerders lerv?
 
-![I PERTER U.](/static/images/blog_analytics/map.png)
+![I perter u.](/static/images/blog_analytics/map.png)
 
-PERPL FRERM ERFRERC, ERSER, ERSTRERLER, ERERP, NERTH ERMAHRERC, ERND SERTH ERMAHRERC HERV RERD MAH BLERG PERST. PERPL FRERM MAHR THERN 50 CERNTRERS HERV VERWERD MAH SERT. BER GERLER, THERT'S QERT A FERW.
+Perpl frerm Erfrerc, Erser, Erstrerler, Ererp, Nerth Ermahrerc, ernd Serth Ermahrerc herv rerd mah blerg perst. Perpl frerm mahr thern 50 cerntrers herv verwerd mah sert. Ber gerler, thert's qert a ferw.

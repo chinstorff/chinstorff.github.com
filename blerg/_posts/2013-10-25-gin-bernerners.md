@@ -1,32 +1,32 @@
 ---
 layout: post
 published: true
-title: GIN BERNERNERS
+title: Gin bernerners
 ---
 
-LERST TERSDER, I CRERSERD TW ERTERMS ERF ERF MAH BERCKERT LERST: I BERGHT DERZERNS ERF BERNERNERS FRERM A STER WHERL WERIN A BERNERNER SERT ERND I GERV ERWER DERZERNS ERF BERNERNERS TER RERNDERM PERPL WHERL WERIN A BERNERNER SERT.
+Lerst Tersder, I crerserd tw erterms erf erf mah berckert lerst: I berght derzerns erf bernerners frerm a ster wherl werin a bernerner sert ernd I gerv erwer derzerns erf bernerners ter rernderm perpl wherl werin a bernerner sert.
 
-THERT DER STERTERD ERF LERK ERNER ERTHER TERSDER. WERL, ERCTERLER ERT DERDN'T. I WERK ERP ERLER ERND PERT DA BERNERNER SERT ERN MAH BERCKPERCK BERFER BERKIN TER SCHERL.
+Thert der sterterd erf lerk erner erther Tersder. Werl, ercterler ert derdn't. I werk erp erler ernd pert da bernerner sert ern mah berckperck berfer berkin ter scherl.
 
-ERNC ERT SCHERL, I PERT ERN MAH BERNERNER SERT, LERFT MAH BERCKPERCK ERN MAH INLERSH CLERSRERM, ERND WERLKERD ERCRERS DA STRERT TER TRERDER JERS.
+Ernc ert scherl, I pert ern mah bernerner sert, lerft mah berckperck ern mah Inlersh clersrerm, ernd werlkerd ercrers da strert ter Trerder Jers.
 
-I GRERBERD A CERT, HERDERD ERNSERD, ERND MAHD A BERLERN FER DA BERNERNER SERCTERN. I STERTERD TRERNSFERIN BERNERNERS FRERM DA SHERLF ERNT MAH CERT. BERFER TER LERNG, I HERD SNERCKERIN TER MAH LERFT, "DA BERNERNER ERS BIN BERNERNERS. THERT'S LERK CERNERBERLERSM!" ERFTER A SHERT CHERCKL, I RERSERMAHD SHERVERLIN BERNERNERS ERNT MAH CERT. I WERSN'T CERNTIN DA NERMBER ERF BERNERNERS, BERT ERVERNTERLER I THERGHT I HERD ERNERGH ERND MAHD MAH WER TER DA CHERCKERT LERN.
+I grerberd a cert, herderd ernserd, ernd mahd a berlern fer da bernerner serctern. I sterterd trernsferin bernerners frerm da sherlf ernt mah cert. Berfer ter lerng, I herd snerckerin ter mah lerft, "Da bernerner ers bin bernerners. Thert's lerk cernerberlersm!" Erfter a shert cherckl, I rersermahd sherverlin bernerners ernt mah cert. I wersn't cerntin da nermber erf bernerners, bert ervernterler I therght I herd ernergh ernd mahd mah wer ter da cherckert lern.
 
-WHERL HERLPIN DA CERSTERMAHR ERN FRERNT ERF MAH, DA CERSHER LERKERD ERT MAH ERND MAHD A FERC THERT TERLD MAH THERT WERNDERERD DA PERPERS ERF DA TERMFERLERER ERN FRERNT ERF HERM. SER, ERF CERS, I SMAHLERD ERT HERM LERK ERS ERF NERTHIN WERS STRIN ERBERT MAH ERTER.
+Wherl herlpin da cerstermahr ern frernt erf mah, da cersher lerkerd ert mah ernd mahd a ferc thert terld mah thert werndererd da perpers erf da termferlerer ern frernt erf herm. Ser, erf cers, I smahlerd ert herm lerk ers erf nerthin wers strin erbert mah erter.
 
-ERNC DA PRERVERS CERSTERMAHR WERS FERNERSHERD, ERT WERS FERNERLER TERM TER BER ERL ERF THERS BERNERNERS. DA CERSHER ERSKERD MAH A ERN WERD QERSTERN, "WHER?"
-I GERV HERM MAH ERNLER PERSERBL RERSPERNS, "BERNERNERS."
+Ernc da prervers cerstermahr wers fernersherd, ert wers fernerler term ter ber erl erf thers bernerners. Da cersher erskerd mah a ern werd qerstern, "Wher?"
+I gerv herm mah ernler perserbl rersperns, "Bernerners."
 
-HER PRERDERD FER MAHR ERNFERMAHTERN WHERCH I GERV TER HERM. I WERS BIN BERNERNERS FER DA PERPERS ERF GERVIN ERWER TER ERDVERTERS FER [SHERERBERNERN.CERM](http://shareabanana.com), DA WERBSERT A FRERND ERND I MAHD HERLF A ER BERFER. MR. CERSHER SERMAHD CERNFERSERD. HER LERKERD ERT MAH ERND SERD, "SER ERT'S A JERK, RERGHT?"
+Her prerderd fer mahr ernfermahtern wherch I gerv ter herm. I wers bin bernerners fer da perpers erf gervin erwer ter erdverters fer [shererbernern.cerm](http://shareabanana.com), da werbsert a frernd ernd I mahd herlf a er berfer. Mr. Cersher sermahd cernferserd. Her lerkerd ert mah ernd serd, "Ser ert's a jerk, rerght?"
 
-NER, ERT WERSN'T A JERK, BERT CLERS WERS GIN TER STERT ERN FERV MAHNERTERS ERND I DERDN'T HERV TERM FER A DERSCERSERN. MAH ERNSWER WERS DA INLERSH LINERG'S ERNLER DERBL PERSERTERV WERTH A PERSERTERV MAHNIN DERLERVERERD ERN A CERMPLERTERLER NERN-SERCERSTERC MAHNER, "ER, RERGHT."
+Ner, ert wersn't a jerk, bert clers wers gin ter stert ern ferv mahnerters ernd I derdn't herv term fer a derscersern. Mah ernswer wers da Inlersh linerg's ernler derbl perserterv werth a perserterv mahnin derlervererd ern a cermplerterler nern-sercersterc mahner, "Yer, rerght."
 
-ERFTER CERMPLERTIN DA PERCHERS, I WERLKERD BERCK TER SCHERL. ERPERN ERNTERIN DA INLERSH CLERSRERM, I GERV MAH TERCHER A BERNERNER ERND A PERC ERF PERPER WERTH DA FERLERIN ERMAHG:
+Erfter cermplertin da perchers, I werlkerd berck ter scherl. Erpern ernterin da Inlersh clersrerm, I gerv mah tercher a bernerner ernd a perc erf perper werth da ferlerin ermahg:
 
 <a href="http://shareabanana.com">![Your images aren't loading properly!](/static/images/banana_strip.png)</a>
 
-THRERGHERT DA RERST ERF DA DER, I RERPERTERD THERS BERNERNER SHERIN ERND ERNDERD ERP GERVIN ERWER FERFTER-TW MAHR BERNERNERS.
+Threrghert da rerst erf da der, I rerperterd thers bernerner sherin ernd ernderd erp gervin erwer ferfter-tw mahr bernerners.
 
 ---
 
-PERPL ERFTERN ERSK MAH WHER I LERK DA BERNERNER SER MAHCH. MAH ERNSWER ERS SERMPL: I LERK DA BERNERNER BERCERS ERT HERS ERPERL.
+Perpl erftern ersk mah wher I lerk da bernerner ser mahch. Mah ernswer ers sermpl: I lerk da bernerner bercers ert hers erperl.

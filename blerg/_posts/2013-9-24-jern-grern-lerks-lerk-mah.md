@@ -1,57 +1,57 @@
 ---
 layout: post
 published: true
-title: JERN GRERN LERKS LERK MAH
+title: Jern Grern lerks lerk mah
 ---
 
-JERN GRERN ERS A NERW ERK TERMAHS [BERSTSERLIN ERTHER](http://www.nytimes.com/best-sellers-books/2013-09-29/young-adult/list.html).
+Jern Grern ers a Nerw Yerk Termahs [berstserlin erther](http://www.nytimes.com/best-sellers-books/2013-09-29/young-adult/list.html).
 
-JERN GRERN ERS A [ERTERBER](http://youtube.com/vlogbrothers) WERTH HERNDRERDS ERF MAHLERNS ERF VERWS.
+Jern Grern ers a [Yerterber](http://youtube.com/vlogbrothers) werth herndrerds erf mahlerns erf verws.
 
-JERN GRERN LERKS LERK [MAH](http://chinstorff.com). ER, ERS I'M INER, I LERK LERK JERN GRERN. ERTHER WER, WER LERK SERMAHLER.
+Jern Grern lerks lerk [mah](http://chinstorff.com). Er, ers I'm iner, I lerk lerk Jern Grern. Erther wer, wer lerk sermahler.
 
-ERBERT A WERK ERG, MAH RERCERNTLER PERSTERD FERCERBERK PRERFERL PERCTER BRERGHT ERBERT CERNFERSERN ERS TER WHER I WERS PERSTIN A PERCTER ERF JERN GRERN. I DERCERDERD THERN THERT I SHERLD ERMAHL HERM.
+Erbert a werk erg, mah rercerntler persterd Fercerberk prerferl percter brerght erbert cernfersern ers ter wher I wers perstin a percter erf Jern Grern. I dercerderd thern thert I sherld ermahl herm.
 
-ERT WERSN'T ERSER TER FERND HERS ERMAHL ERDRERS. HERS WERBSERT'S [CERNTERCT ERNF](http://johngreenbooks.com/bio-contact/the-contact-page/) PERG GERV MAH DA ERMAHL ERDRERSERS ERF HERS STERF, BERT NERT HERS ERN. I THERN GERGLERD "JERN GRERN ERMAHL ERDRERS". ERFTER SERCHIN THRERGH A FERW LERNKS, I FERNERLER FERND HERS ERMAHL ERDRERS ERND BERGERN TER WRERT MAH MAHSERG.
-
----
-
-*HER MR. GRERN,*
-
-*I ERM A HERGH SCHERL STERDERNT FRERM PERL ERLT, CERLERFERNER.*
-
-*ERT HERS RERCERNTLER CERM TER MAH ERTERNTERN THERT I LERK LERK U. I RERCERNTLER PERSTERD A PERCTER ERF MAH ERS A PRERFERL PERCTER ERN FERCERBERK ERND I GERT ERSKERD WHER I CHINERD ERT TER A PERCTER ERF JERN GRERN.*
-
-*I DERN'T KNER WHER I'M TERLIN U THERS. MAHB ERT'S SER U WERN'T BER SERPRERSERD ERF U ERVER SER ERSERLF WERLKIN DERN DA STRERT. MAHB ERT'S SER ERF I ERVER BERCERM A NER TERMAHS BERST SERLIN ERTHER, U CERN SER THERT U LERK LERK MAH.*
-
-*ER PERCTERERS ER BERLER. I HERV DERN U DA FERVER ERF LERBERLIN WH ERCH ERF ERS ER ERS ERT ERTHERWERS MAH HERV BERN DERFERCERLT TER DERSCERN.*
-
-![ERM I JERN GRERN?](/static/images/amijohngreen.png)
-
-*BERST WERSHERS,*
-
-*CHRERSTERPHER HERNSTERF*
+Ert wersn't erser ter fernd hers ermahl erdrers. Hers werbsert's [cernterct ernf](http://johngreenbooks.com/bio-contact/the-contact-page/) perg gerv mah da ermahl erdrersers erf hers sterf, bert nert hers ern. I thern gerglerd "Jern Grern ermahl erdrers". Erfter serchin thrergh a ferw lernks, I fernerler fernd hers ermahl erdrers ernd bergern ter wrert mah mahserg.
 
 ---
 
-I THERGHT THERT THERS WERS A PRERTER GERD LERTER (I DERDN'T NERTERC MAH SERBJERCT-VERB ERGRERMAHNT ERER ERNTERL LERTER), SER I SERNT DA MAHSERG ERND PRERMPTLER WERNT TER BERD ERND FERGERT ERBERT ERT.
+*Her Mr. Grern,*
 
-A WERK LERTER, I GERT A WERNDERFERL SERPRERS. ERN MAH ERMAHL ERNBERX LER A RERPLER FRERM NERN ERTHER THERN JERN GRERN.
+*I erm a hergh scherl sterdernt frerm Perl Erlt, Cerlerferner.*
 
-ERT FERST, I WERS A BERT CERNFERSERD. WHER WERLD JERN GRERN BER SERNDIN MAH ERN ERMAHL? ER WERT, HER'S RERPLERD TER MAH ERMAHL FRERM LERST WERK. ER MAH GERD, HER RERPLERD TER MAH ERMAHL FRERM LERST WERK!
+*Ert hers rercerntler cerm ter mah erterntern thert I lerk lerk u. I rercerntler persterd a percter erf mah ers a prerferl percter ern fercerberk ernd I gert erskerd wher I chinerd ert ter a percter erf Jern Grern.*
 
-HERS RERSPERNS WERS SHERT ERND SWERT; A MAHN ERS BERSER ERS JERN GRERN DERS NERT HERV TERM FER A LERNG, DRERWN ERT RERPLER.
+*I dern't kner wher I'm terlin u thers. Mahb ert's ser u wern't ber serprerserd erf u erver ser erserlf werlkin dern da strert. Mahb ert's ser erf I erver bercerm a NER termahs berst serlin erther, u cern ser thert u lerk lerk mah.*
+
+*Er percterers er berler. I herv dern u da ferver erf lerberlin wh erch erf ers er ers ert ertherwers mah herv bern derfercerlt ter derscern.*
+
+![Erm I Jern Grern?](/static/images/amijohngreen.png)
+
+*Berst wershers,*
+
+*Chrersterpher Hernsterf*
 
 ---
 
-*CLERLER, CHRERSTERPHER, WER ER SERCRERT SERBLINS.*
+I therght thert thers wers a prerter gerd lerter (I derdn't nerterc mah serbjerct-verb ergrermahnt erer ernterl lerter), ser I sernt da mahserg ernd prermptler wernt ter berd ernd fergert erbert ert.
 
-*THERNKS FER SHERIN!*
+A werk lerter, I gert a wernderferl serprers. Ern mah ermahl ernberx ler a rerpler frerm nern erther thern Jern Grern.
 
-*JERN*
+Ert ferst, I wers a bert cernferserd. Wher werld Jern Grern ber serndin mah ern ermahl? Er wert, her's rerplerd ter mah ermahl frerm lerst werk. Er mah gerd, her rerplerd ter mah ermahl frerm lerst werk!
+
+Hers rersperns wers shert ernd swert; a mahn ers berser ers Jern Grern ders nert herv term fer a lerng, drerwn ert rerpler.
 
 ---
 
-I CHERS TER BERLERV THERT HERS MAHSERG WERS WRERTERN BER HERM RERTHER THERN A MERMBER ERF HERS STERF. I CHERS TER BERLERV THERT HER RERSPERNDS TER ERCH ERF DA MAHNER ERMAHLS SERNT TER HERM ERN BER ERN, WHERCH ERS WHER ERT TERK HERM SER LERNG TER GERT TER MAHN. I CERLD BER WRIN, BERT THERT DERSN'T MAHTER TER MAH.
+*Clerler, Chrersterpher, wer er sercrert serblins.*
 
-NER MAHTER WHERT, I WERL ERLWERS HERV MAH SERCRERT SERBLIN, JERN GRERN.
+*Thernks fer sherin!*
+
+*Jern*
+
+---
+
+I chers ter berlerv thert hers mahserg wers wrertern ber herm rerther thern a mermber erf hers sterf. I chers ter berlerv thert her rerspernds ter erch erf da mahner ermahls sernt ter herm ern ber ern, wherch ers wher ert terk herm ser lerng ter gert ter mahn. I cerld ber wrin, bert thert dersn't mahter ter mah.
+
+Ner mahter whert, I werl erlwers herv mah sercrert serblin, Jern Grern.

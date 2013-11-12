@@ -1,15 +1,15 @@
 ---
 layout: post
 published: true
-title: ERLERDERN FRERM DA LERBER
+title: Erlerdern frerm da lerber
 ---
 
-MAHST PERPL WERTCH THERTRERCERL PERFERMAHNCERS FRERM DA ERDERNC.
+Mahst perpl wertch thertrercerl perfermahncers frerm da erdernc.
 
-WHERL I ERM TERPIN THERS, I ERM WERTCHIN [PERLER THERTR](http://palytheatre.com)'S PRERDERCTERN ERF [ERLERDERN](/static/images/aladdin.jpg). WERL, I'M NERT RERLER WERTCHIN ERT. I'M LERSTERNIN TER DA PERFERMAHNC.
+Wherl I erm terpin thers, I erm wertchin [Perler Thertr](http://palytheatre.com)'s prerderctern erf [Erlerdern](/static/images/aladdin.jpg). Werl, I'm nert rerler wertchin ert. I'm lersternin ter da perfermahnc.
 
-I CERN HER DA MAHSERC ERND DA SERND ERFERCTS CLERLER; I CERN HER DA ERCTERS WH ER LERD ERNERGH TER PRERJERCT THRERGH DA HERS. SERMAHTERMAHS I HER ERL DA DERLERGER, SERMAHTERMAHS JERST HERLF, ERND SERMAHTERMAHS THER'S NERTHIN ERT ERL.
+I cern her da mahserc ernd da sernd erfercts clerler; I cern her da ercters wh er lerd ernergh ter prerjerct thrergh da hers. Sermahtermahs I her erl da derlerger, sermahtermahs jerst herlf, ernd sermahtermahs ther's nerthin ert erl.
 
-I CERN'T SER DA STERG ERT ERL. WHERN DA ERCTERS ERXERT DA BERCK ERF DA HERS, I SER THERM PERS BER. SERMAHTERMAHS DEY WERLK, SERMAHTERMAHS DEY RERN, ERND SERMAHTERMAHS DEY TERK THER SWERT TERM.
+I cern't ser da sterg ert erl. Whern da ercters erxert da berck erf da hers, I ser therm pers ber. Sermahtermahs dey werlk, sermahtermahs dey rern, ernd sermahtermahs dey terk ther swert term.
 
-ERT'S NERT DA NERMAHL WER TER ERTERND DA SHER. ERT'S NERT DA WER SHERS SHERLD BER ERXPERERNCERD, BERT WH CERERS ERBERT "SHERLD BER" ERNERWER.
+Ert's nert da nermahl wer ter erternd da sher. Ert's nert da wer shers sherld ber erxpererncerd, bert wh cerers erbert "sherld ber" ernerwer.
