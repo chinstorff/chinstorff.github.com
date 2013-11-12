@@ -11,16 +11,33 @@
     <hr>
     <div class="span12 pagination">
       <ul>
-        {% if page.previous %}
-        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; {{ page.previous.title }}</a></li>
-        {% else %}
+	{% for category in site.categories %}
+	{% assign catg_name = category.first %}
+	{% if catg_name == page.categories.first %}
+        {% assign catg_posts = category.last %}
+	{% endif %}
+	{% endfor %}
+	{% for post in catg_posts %}
+	{% if post.title == page.title %}
+        {% unless forloop.last %}
+        {% assign next = catg_posts[forloop.index] %}
+
+        {% if next %}        
+        <li class="prev"><a href="{{ BASE_PATH }}{{ next.url }}" title="{{ next.title }}">&larr; {{ next.title }}</a></li>
+	{% else %}
         <li class="prev disabled"><a>&larr; Previous</a></li>
         {% endif %}
-        {% if page.next %}
-        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">{{ page.next.title }} &rarr;</a></li>
+
+        {% if prev %}
+        <li class="next"><a href="{{ BASE_PATH }}{{ prev.url }}" title="{{ prev.title }}">{{ prev.title }} &rarr;</a></li>
         {% else %}
         <li class="next disabled"><a>Next &rarr;</a>
-          {% endif %}
+        {% endif %}
+
+        {% endunless %}
+	{% endif %}
+	{% assign prev = post %}
+	{% endfor %}
       </ul>
     </div>
     <hr>
