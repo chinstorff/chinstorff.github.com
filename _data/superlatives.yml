@@ -1,8 +1,20 @@
 -
-  type: least favorite
+  type: The worst
   category: word
   detail: plateaus
 - 
-  type: favorite
+  type: The best
   category: Wikipedia entry
   detail: "<a href=https://en.wikipedia.org/wiki/Grommet>grommet</a>"
+-
+  type: The best
+  category: kitchen appliance
+  detail: the toaster
+-
+  type: The trashiest
+  category: city in the United States
+  detail: Atlanta
+-
+  type: The best named
+  category: country
+  detail: Djibouti
