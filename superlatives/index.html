@@ -1,0 +1,17 @@
+---
+layout: page
+title : Superlatives | Christopher Hinstorff
+---
+<h1>Superlatives</h1>
+<h3>The best web page of all time</h3>
+<hr>
+{% for super in site.data.superlatives %}
+<p>
+My 
+{{ super.type }}
+{{ super.category }}
+ is 
+{{ super.detail }}.
+</p>
+{% endfor %}
+</ul>
