@@ -18,21 +18,23 @@ permalink: /:categories/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: true
 
-# Comments
-comments:
-  provider: disqus
-  disqus:
-    short_name: 'chinstorff'
 
-# Analytics
-analytics:
-  provider: google
-  google:
-    tracking_id : 'UA-43949530-1'
+JB:
+  # Comments
+  comments:
+    provider: disqus
+    disqus:
+      short_name: 'chinstorff'
+      
+  # Analytics
+  analytics:
+    provider: google
+    google:
+      tracking_id : 'UA-43949530-1'
 
-# Sharing
-provider: false
+  # Sharing
+  provider: false
 
-# Other helpers
-pages_list :
-  provider : "custom" 
+  # Other helpers
+  pages_list :
+    provider : "custom" 
