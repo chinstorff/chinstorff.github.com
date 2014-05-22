@@ -1,0 +1,45 @@
+-
+  name: Paly.io
+  URL: http://paly.io
+  secondary-name: source
+  secondary-URL: http://github.com/palyvoice/paly.io
+  text1: Palo Alto High School's URL shortener
+  text2: Includes an API, Chrome extension, and QR codes
+  image: paly-io.png
+-
+  name: Scoria
+  URL: scoria.jumhyn.com
+  secondary-name: source
+  secondary-URL: http://github.com/scoria-network/scoria
+  text1: Semi-anonymous social network
+  text2: On ice
+  image: scoria.png
+-
+  name: yahtzee
+  URL: https://rubygems.org/gems/yahtzee
+  text1: Command line Yahtzee clone as a RubyGem
+  image: yahtzee.png
+-
+  name: The Paly Voice
+  URL: http://palyvoice.com
+  secondary-name: drone footage
+  secondary-URL: http://palyvoice.com/2013/09/13/video-exclusive-flag-unfurled-at-football-season-opener
+  text1: Webmaster and Drone Operator for Palo Alto High School's 24/7 online news source
+  image: palyvoice.png
+-
+  name: Paly Archives
+  URL: http://archives.palyvoice.com
+  text1: Screenshot and text archive for Palo Alto High School journalism publications
+  image: archives-palyvoice-com.png
+-
+  name: Share a Banana
+  URL: http://shareabanana.com
+  text1: Share virtual bananas with your friends!
+  image: shareabanana.png
+-
+  name: Hivolts
+  URL: http://chinstorff.com/hivolts
+  secondary-name: source
+  secondary-URL: http://github.com/chinstorff/hivolts
+  text1: Reverse engineered clone of a 1970s video game
+  image: hivolts.png
