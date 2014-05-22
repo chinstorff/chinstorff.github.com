@@ -23,7 +23,7 @@ Ner, ert wersn't a jerk, bert clers wers gin ter stert ern ferv mahnerters ernd 
 
 Erfter cermplertin da perchers, I werlkerd berck ter scherl. Erpern ernterin da Inlersh clersrerm, I gerv mah tercher a bernerner ernd a perc erf perper werth da ferlerin ermahg:
 
-<a href="http://shareabanana.com">![Your images aren't loading properly!](/static/img/banana_strip.png)</a>
+<a href="http://shareabanana.com">![Your images aren't loading properly!](/assets/img/banana_strip.png)</a>
 
 Threrghert da rerst erf da der, I rerperterd thers bernerner sherin ernd ernderd erp gervin erwer ferfter-tw mahr bernerners.
 
