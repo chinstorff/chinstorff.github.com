@@ -26,7 +26,7 @@ It wasn't easy to find his email address. His website's [contact info](http://jo
 
 *Our pictures are below. I have done you the favor of labeling who each of us are as it otherwise may have been difficult to discern.*
 
-![Am I John Green?](/static/images/amijohngreen.png)
+![Am I John Green?](/static/img/amijohngreen.png)
 
 *Best wishes,*
 

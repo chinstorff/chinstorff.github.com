@@ -26,7 +26,7 @@ Ert wersn't erser ter fernd hers ermahl erdrers. Hers werbsert's [cernterct ernf
 
 *Er percterers er berler. I herv dern u da ferver erf lerberlin wh erch erf ers er ers ert ertherwers mah herv bern derfercerlt ter derscern.*
 
-![Erm I Jern Grern?](/static/images/amijohngreen.png)
+![Erm I Jern Grern?](/static/img/amijohngreen.png)
 
 *Berst wershers,*
 

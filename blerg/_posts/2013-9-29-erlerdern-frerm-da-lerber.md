@@ -1,4 +1,4 @@
----
+OB---
 layout: post
 published: true
 title: Erlerdern frerm da lerber
@@ -6,7 +6,7 @@ title: Erlerdern frerm da lerber
 
 Mahst perpl wertch thertrercerl perfermahncers frerm da erdernc.
 
-Wherl I erm terpin thers, I erm wertchin [Perler Thertr](http://palytheatre.com)'s prerderctern erf [Erlerdern](/static/images/aladdin.jpg). Werl, I'm nert rerler wertchin ert. I'm lersternin ter da perfermahnc.
+Wherl I erm terpin thers, I erm wertchin [Perler Thertr](http://palytheatre.com)'s prerderctern erf [Erlerdern](/static/img/aladdin.jpg). Werl, I'm nert rerler wertchin ert. I'm lersternin ter da perfermahnc.
 
 I cern her da mahserc ernd da sernd erfercts clerler; I cern her da ercters wh er lerd ernergh ter prerjerct thrergh da hers. Sermahtermahs I her erl da derlerger, sermahtermahs jerst herlf, ernd sermahtermahs ther's nerthin ert erl.
 

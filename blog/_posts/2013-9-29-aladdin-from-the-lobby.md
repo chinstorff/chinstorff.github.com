@@ -1,4 +1,4 @@
----
+OB---
 layout: post
 published: true
 title: Aladdin from the lobby
@@ -6,7 +6,7 @@ title: Aladdin from the lobby
 
 Most people watch theatrical performances from the audience.
 
-While I am typing this, I am watching [Paly Theatre](http://palytheatre.com)'s production of [Aladdin](/static/images/aladdin.jpg). Well, I'm not really watching it. I'm listening to the performance.
+While I am typing this, I am watching [Paly Theatre](http://palytheatre.com)'s production of [Aladdin](/static/img/aladdin.jpg). Well, I'm not really watching it. I'm listening to the performance.
 
 I can hear the music and the sound effects clearly; I can hear the actors who are loud enough to project through the house. Sometimes I hear all the diologue, sometimes just half, and sometimes there's nothing at all.
 
