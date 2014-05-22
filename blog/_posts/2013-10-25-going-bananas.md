@@ -23,7 +23,7 @@ No, it wasn't a joke, but class was going to start in five minutes and I didn't 
 
 After completing the purchase, I walked back to school. Upon entering the English classroom, I gave my teacher a banana and a piece of paper with the following image:
 
-<a href="http://shareabanana.com">![Your images aren't loading properly!](/static/img/banana_strip.png)</a>
+<a href="http://shareabanana.com">![Your images aren't loading properly!](/assets/img/banana_strip.png)</a>
 
 Throughout the rest of the day, I repeated this banana sharing and ended up giving away fifty-two more bananas.
 

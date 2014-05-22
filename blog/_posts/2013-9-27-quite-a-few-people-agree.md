@@ -10,25 +10,25 @@ A few days ago, I published [this post](http://chinstorff.com/blog/john-green-lo
 
 Thanks to the magic of [Google Analytics](http://analytics.google.com), I know how many people viewed my site. This data is from September 24th - September 26th.
 
-![You can't see this image, so this post must be dreadfully boring for you.](/static/img/blog_analytics/stats.png "Holy guacamole!")
+![You can't see this image, so this post must be dreadfully boring for you.](/assets/img/blog_analytics/stats.png "Holy guacamole!")
 
 Twenty five hundred different people. Nearly four thousand total page views. Wow.
 
 The following is a graph of visits per hour.
 
-![You can't see this graph either!](/static/img/blog_analytics/visits.png)
+![You can't see this graph either!](/assets/img/blog_analytics/visits.png)
 
 The first spike in the graph is from Facebook. The mountain you see is from Reddit.
 
 How many people total came from Facebook and Reddit?
 
-![Still reading this? You've got too much time on your hands.](/static/img/blog_analytics/social.png)
+![Still reading this? You've got too much time on your hands.](/assets/img/blog_analytics/social.png)
 
 That's interesting. *Somebody else* posted the link to my blog on Tumblr. That's pretty cool.
 
 So now we know how they found out about my blog post, but how did people view it?
 
-![Learn how to quit.](/static/img/blog_analytics/how.png)
+![Learn how to quit.](/assets/img/blog_analytics/how.png)
 
 Not surprisingly, most people viewed my blog with Windows. Out of all of the operating system users, Linux's viewed the most different pages on average.
 
@@ -36,6 +36,6 @@ Thankfully, only 30 readers used Internet Explorer (although that number is stil
 
 I've saved my favorite graph for last. In which countries do my readers live?
 
-![I pity you.](/static/img/blog_analytics/map.png)
+![I pity you.](/assets/img/blog_analytics/map.png)
 
 People from Africa, Asia, Australia, Europe, North America, and South America have read my blog post. People from more than 50 countries have viewed my site. By golly, that's quite a few.
