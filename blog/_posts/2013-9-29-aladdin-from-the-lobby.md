@@ -1,4 +1,4 @@
-OB---
+---
 layout: post
 published: true
 title: Aladdin from the lobby
