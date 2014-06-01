@@ -8,7 +8,7 @@
   image: paly-io.png
 -
   name: To Safety
-  URL: http://frontfish.net/to-safety
+  URL: http://frontfish.net/tosafety
   secondary-name: source
   secondary-URL: http://github.com/chinstorff/to-safety
   text1: Web game written in JavaScript with Phaser framework
