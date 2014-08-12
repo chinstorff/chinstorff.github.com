@@ -7,15 +7,14 @@
   text2: Includes an API, Chrome extension, and QR codes
   image: paly-io.png
 -
-  name: To Safety
-  URL: http://frontfish.net/to-safety
+  name: frontfish.net
+  URL: http://frontfish.net/
   secondary-name: source
-  secondary-URL: http://github.com/chinstorff/to-safety
-  text1: Web game written in JavaScript with Phaser framework
-  image: tosafety.png
+  text1: Collection of web games
+  image: frontfish.png
 -
   name: Scoria
-  URL: scoria.jumhyn.com
+  URL: http://scoria.jumhyn.com
   secondary-name: source
   secondary-URL: http://github.com/scoria-network/scoria
   text1: Semi-anonymous social network

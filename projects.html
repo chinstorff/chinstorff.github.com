@@ -9,7 +9,7 @@ permalink: projects/
 {% for project in site.data.projects %}
 <div class="row post">
   <div class="span5">
-    <img src="{{ ASSET_PATH }}/img/projects/{{ project.image }}"</img>
+    <a href="{{ project.URL }}" target ="_blank"><img src="{{ ASSET_PATH }}/img/projects/{{ project.image }}"</img></a>
   </div>
   <div class="span7">
     <h3>{{ project.name }}</h3>
