@@ -144,8 +144,8 @@ dd ul li {
     border-radius: 20px;
 }
 
-.project {
-   float: left;
+.projects img{
+    max-width: 277px;
 }
 
 .projects table {
