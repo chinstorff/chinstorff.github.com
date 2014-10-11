@@ -125,13 +125,13 @@ dd ul li {
     width: 100%;
 }
 
+.projects * {
+    box-sizing: border-box;
+}
+
 .projects h2 {
     text-align: center;
     margin-bottom: 10px;
-}
-
-.projects img {
-    width: 300px;
 }
 
 .project-category {
@@ -154,7 +154,7 @@ dd ul li {
 
 .projects td {
     background: #ffffff;
-    width: 296px;
+    width: 299px;
     padding: 10px 10px;
     border: 1px solid;
     border-color: #dddddd;
