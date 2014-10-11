@@ -25,11 +25,22 @@
   image: scoria.png
   category: hackathon
 -
-  name: yahtzee
-  URL: https://rubygems.org/gems/yahtzee
-  text1: Command line Yahtzee clone as a RubyGem
-  image: yahtzee.png
+  name: yahtzee.js
+  URL: http://chinstorff.com/yahtzee
+  secondary-name: source
+  secondary-url: http://github.com/chinstorff/yahtzee
+  text1: Yahtzee clone built with JavaScript
+  text2: Under development
+  image: yahtzee-js.png
   category: games
+-
+  name: yahtzee.rb
+  URL: http://rubygems.org/gems/yahtzee
+  secondary-name: documentation
+  secondary-URL: http://rubydoc.info/gems/yahtzee/0.0.3/frames
+  text1: Command line Yahtzee clone as a RubyGem
+  image: yahtzee-rb.png
+  category: other
 -
   name: The Paly Voice
   URL: http://palyvoice.com
@@ -58,3 +69,11 @@
   text1: Reverse engineered clone of a 1970s video game
   image: hivolts.png
   category: games
+-
+  name: Boxplot Generator
+  URL: http://chinstorff.com/boxplot
+  secondary-name: source
+  secondary-URL: http://github.com/chinstorff/boxplot
+  text1: Modified boxplot generator built with JavaScript
+  image: boxplot.png
+  category: other
