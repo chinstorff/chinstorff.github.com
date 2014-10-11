@@ -120,3 +120,53 @@ p {
 dd ul li {
     font-size: 18px;
 }
+
+.projects {
+    width: 100%;
+}
+
+.projects h2 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.projects img {
+    width: 300px;
+}
+
+.project-category {
+    background: #f5f5f5;
+    padding: 20px;
+    margin-bottom: 20px;
+    
+    border: 1px solid;
+    border-color: #dddddd;
+    border-radius: 20px;
+}
+
+.project {
+   float: left;
+}
+
+.projects table {
+    border-collapse: separate;
+}
+
+.projects td {
+    background: #ffffff;
+    width: 296px;
+    padding: 10px 10px;
+    border: 1px solid;
+    border-color: #dddddd;
+    margin: 23px;
+}
+.projects tr:first-child td {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.projects tr:last-child td {
+    border-top: 0px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-bottom: 0px;
+}

@@ -1,0 +1,16 @@
+-
+  id: games
+  name: Games
+  description: 
+-
+  id: voice
+  name: The Paly Voice
+  description:
+-
+  id: hackathon
+  name: Hackathon Creations
+  description:
+-
+  id: other
+  name: Other Projects
+  description:

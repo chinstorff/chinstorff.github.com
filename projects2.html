@@ -1,0 +1,69 @@
+---
+layout: page
+title: Projects | Christopher Hinstorff
+permalink: projects2/
+---
+
+{% include JB/setup %}
+
+<div class="projects">
+  {% for category in site.data.project_categories %}
+  <div class="project-category">
+    <h2>{{ category.name }}</h2>
+    <table>
+      <tr>
+	{% for project in site.data.projects %}
+	{% if project.category == category.id %}
+	<td>
+	  <a href="{{ project.URL }}" target ="_blank"><img src="{{ ASSET_PATH }}/img/projects/{{ project.image }}"</img></a>
+	</td>
+	{% endif %}
+	{% endfor %}
+	</tr>
+	<tr>
+	  {% for project in site.data.projects %}
+	  {% if project.category == category.id %}
+	  <td>
+	    <h3>{{ project.name }}</h3>
+	    <p>{{ project.text1 }}</p>
+	    {% if project.text2 %}
+	    <p>{{ project.text2 }}</p>
+	    {% endif %}
+	    <p><em>
+	      <a href="{{ project.URL }}" target="_blank">{{ project.name }}</a>
+	      {% if project.secondary-name && project.secondary-URL %}
+	      | <a href="{{ project.secondary-URL }}" target="_blank">{{ project.secondary-name }}</a>
+	      {% endif %}
+	    </em></p>
+
+	  </td>
+	  {% endif %}
+	  {% endfor %}
+	</tr>
+    </table>
+  </div>
+  {% endfor %}
+</div>
+
+<!--
+{% for project in site.data.projects %}
+<div class="row post">
+  <div class="span5">
+    <a href="{{ project.URL }}" target ="_blank"><img src="{{ ASSET_PATH }}/img/projects/{{ project.image }}"</img></a>
+  </div>
+  <div class="span7">
+    <h3>{{ project.name }}</h3>
+    <p>{{ project.text1 }}</p>
+    {% if project.text2 %}
+    <p>{{ project.text2 }}</p>
+    {% endif %}
+    <p><em>
+      <a href="{{ project.URL }}" target="_blank">{{ project.name }}</a>
+      {% if project.secondary-name && project.secondary-URL %}
+      | <a href="{{ project.secondary-URL }}" target="_blank">{{ project.secondary-name }}</a>
+      {% endif %}
+    </em></p>
+  </div>
+</div>
+{% endfor %}
+-->`
