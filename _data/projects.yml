@@ -76,3 +76,19 @@
   text1: Modified boxplot generator built with JavaScript
   image: boxplot.png
   category: other
+-
+  name: Blerg
+  URL: http://chinstorff.com/blerg
+  secondary-name: script
+  secondary-URL: https://raw.githubusercontent.com/chinstorff/chinstorff.github.com/master/update_blerg.rb
+  text1: My blog translated into the wonderful <a href="http://knowyourmeme.com/memes/ermahgerd">ermahgerd speak</a>
+  image:
+  category: other
+-
+  name: 
+  URL: 
+  secondary-name: 
+  secondary-URL: 
+  text1: 
+  image:
+  category: 

@@ -1,16 +1,20 @@
 -
-  id: hackathon
-  name: Hackathon Creations
+  id: games
+  name: Web Games
   description:
 -
   id: voice
   name: The Paly Voice
   description:
 -
-  id: games
-  name: Web Games
-  description: 
+  id: hackathon
+  name: Hackathon Creations
+  description:
 -
   id: other
   name: Other Projects
+  description:
+-
+  id: notcode
+  name: Other Endeavors
   description:

@@ -5,9 +5,10 @@ permalink: projects/
 ---
 
 {% include JB/setup %}
+<ul id="tabs"></ul>
 <div class="projects">
   {% for category in site.data.project_categories %}
-  <div class="project-category">
+  <div class="project-category tabContent" id="{{ category.id }}">
     <h2>{{ category.name }}</h2>
     <table>
       <tr>
@@ -43,3 +44,4 @@ permalink: projects/
   </div>
   {% endfor %}
 </div>
+{% include custom/tabs %}

@@ -134,7 +134,7 @@ dd ul li {
     margin-bottom: 10px;
 }
 
-.project-category {
+.projects {
     background: #f5f5f5;
     padding: 20px;
     margin-bottom: 30px;
@@ -169,4 +169,32 @@ dd ul li {
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     padding-bottom: 0px;
+}
+
+ul#tabs {
+    list-style-type: none;
+    margin: 13px 0 -1px 0;
+    padding: 0 0 0.3em 0;
+}
+
+ul#tabs li {
+    display: inline;
+}
+
+ul#tabs li a {
+    color: #42454a;
+    background-color: #dedbde;
+    border: 1px solid #c9c3ba;
+    padding: 0.3em;
+    text-decoration: none;
+}
+
+ul#tabs li a:hover {
+    background-color: #f1f0ee;
+}
+
+ul#tabs li a.selected {
+    color: #000;
+    background-color: #f5f5f5;
+    border-bottom: 1px solid #f1f0ee;
 }
