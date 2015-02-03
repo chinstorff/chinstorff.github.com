@@ -8,13 +8,13 @@ permalink: projects/
 <ul id="tabs"></ul>
 <div class="projects">
   {% for category in site.data.project_categories %}
-  {% if category.hidden != true %}
+  {% if category.visibility == hidden %}
   <div class="project-category tabContent" id="{{ category.id }}">
     <h2 style="display:none">{{ category.name }}</h2>
     <table>
       <tr>
 	{% for project in site.data.projects %}
-	    {% if project.category == category.id and project.hidden != true %}
+	    {% if project.category == category.id and project.visibility == hidden %}
 	    <td>
 	      <a href="{{ project.URL }}" target ="_blank"><img src="{{ ASSET_PATH }}/img/projects/{{ project.image }}"</img></a>
 	    </td>
@@ -23,7 +23,7 @@ permalink: projects/
 	</tr>
 	<tr>
 	{% for project in site.data.projects %}
-	  {% if project.category == category.id and project.hidden != true %}
+	  {% if project.category == category.id and project.visibility == hidden %}
 	  <td>
 	    <h3>{{ project.name }}</h3>
 	    <p>{{ project.text1 }}</p>
