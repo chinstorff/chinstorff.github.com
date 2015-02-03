@@ -84,6 +84,7 @@
   text1: My blog translated into the wonderful <a href="http://knowyourmeme.com/memes/ermahgerd">ermahgerd speak</a>
   image:
   category: other
+  hidden: true
 -
   name: 
   URL: 

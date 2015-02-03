@@ -8,21 +8,22 @@ permalink: projects/
 <ul id="tabs"></ul>
 <div class="projects">
   {% for category in site.data.project_categories %}
+  {% if category.hidden != true %}
   <div class="project-category tabContent" id="{{ category.id }}">
-    <h2>{{ category.name }}</h2>
+    <h2 style="display:none">{{ category.name }}</h2>
     <table>
       <tr>
 	{% for project in site.data.projects %}
-	{% if project.category == category.id %}
-	<td>
-	  <a href="{{ project.URL }}" target ="_blank"><img src="{{ ASSET_PATH }}/img/projects/{{ project.image }}"</img></a>
-	</td>
-	{% endif %}
+	    {% if project.category == category.id and project.hidden != true %}
+	    <td>
+	      <a href="{{ project.URL }}" target ="_blank"><img src="{{ ASSET_PATH }}/img/projects/{{ project.image }}"</img></a>
+	    </td>
+	    {% endif %}
 	{% endfor %}
 	</tr>
 	<tr>
-	  {% for project in site.data.projects %}
-	  {% if project.category == category.id %}
+	{% for project in site.data.projects %}
+	  {% if project.category == category.id and project.hidden != true %}
 	  <td>
 	    <h3>{{ project.name }}</h3>
 	    <p>{{ project.text1 }}</p>
@@ -38,10 +39,11 @@ permalink: projects/
 
 	  </td>
 	  {% endif %}
-	  {% endfor %}
+	{% endfor %}
 	</tr>
     </table>
   </div>
+  {% endif %}
   {% endfor %}
 </div>
 {% include custom/tabs %}
