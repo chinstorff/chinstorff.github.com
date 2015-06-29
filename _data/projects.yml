@@ -86,10 +86,10 @@
   category: other
   visibility: hidden
 -
-  name: 
-  URL: 
-  secondary-name: 
-  secondary-URL: 
-  text1: 
-  image:
-  category: 
+  name: CLT
+  URL: http://chinstorff.com/clt
+  secondary-name: source
+  secondary-URL: http://github.com/chinstorff/clt
+  text1: A tool for visualization of the <a href="https://en.wikipedia.org/wiki/Central_limit_theorem">Central Limit Theorem</a> and sampling distributions.
+  image: clt.png
+  category: other
