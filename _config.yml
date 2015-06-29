@@ -16,7 +16,7 @@ markdown: kramdown
 permalink: /:categories/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: true
+highlighter: pygments
 
 
 JB:
