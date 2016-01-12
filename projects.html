@@ -25,7 +25,7 @@ permalink: projects/
 	{% for project in site.data.projects %}
 	  {% if project.category == category.id and project.visibility == hidden %}
 	  <td>
-	    <h3>{{ project.name }}</h3>
+	    <h3>{{ project.name }}{{ project.name2 }}</h3>
 	    <p>{{ project.text1 }}</p>
 	    {% if project.text2 %}
 	    <p>{{ project.text2 }}</p>
