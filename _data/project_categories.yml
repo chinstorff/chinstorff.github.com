@@ -1,4 +1,12 @@
 -
+  id: hacks
+  name: Hackathon Creations
+  description:
+-
+  id: visualizations
+  name: Visualizations
+  description:
+-
   id: games
   name: Web Games
   description:
@@ -7,12 +15,8 @@
   name: The Paly Voice
   description:
 -
-  id: hackathon
-  name: Hackathon Creations
-  description:
--
   id: other
-  name: Other Projects
+  name: Miscellaneous
   description:
 -
   id: notcode

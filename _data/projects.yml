@@ -1,4 +1,13 @@
 -
+  name: inTime
+  name2: ' (2015)'
+  URL: http://playinti.me
+  secondary-name: source
+  secondary-URL: http://github.com/play-in-time
+  text1: Create playlists of specified durations from your songs!
+  image: intime.png
+  category: hacks
+-
   name: paly.io
   URL: http://paly.io
   secondary-name: source
@@ -16,12 +25,13 @@
   category: games
 -
   name: Scoria
-  URL: http://scoria.jumhyn.com
+  name2: ' (2013)'
+  URL:
   secondary-name: source
   secondary-URL: http://github.com/scoria-network/scoria
   text1: Semi-anonymous social network. On ice
   image: scoria.png
-  category: hackathon
+  category: hacks
 -
   name: yahtzee.js
   URL: http://chinstorff.com/yahtzee
@@ -47,19 +57,20 @@
   image: palyvoice.png
   category: voice
 -
-  name: Paly Archives
+  name: Journalism Archives
   URL: http://archives.palyvoice.com
   text1: Screenshot and text archive for Palo Alto High School journalism publications
   image: archives-palyvoice-com.png
   category: voice
 -
   name: Share a Banana
+  name2: ' (2013)'
   URL: http://shareabanana.com
   secondary-name: source
   secondary-URL: http://github.com/tekknolagi/shareabanana
   text1: Share virtual bananas with your friends!
   image: shareabanana.png
-  category: hackathon
+  category: hacks
 -
   name: Hivolts
   URL: http://chinstorff.com/hivolts
@@ -75,7 +86,7 @@
   secondary-URL: http://github.com/chinstorff/boxplot
   text1: Modified boxplot generator built with JavaScript
   image: boxplot.png
-  category: other
+  category: visualizations
 -
   name: Blerg
   URL: http://chinstorff.com/blerg
@@ -83,13 +94,21 @@
   secondary-URL: https://raw.githubusercontent.com/chinstorff/chinstorff.github.com/master/update_blerg.rb
   text1: My blog translated into the wonderful <a href="http://knowyourmeme.com/memes/ermahgerd">ermahgerd speak</a>
   image:
-  category: other
+  category: notcode
   visibility: hidden
 -
   name: CLT
   URL: http://chinstorff.com/clt
   secondary-name: source
   secondary-URL: http://github.com/chinstorff/clt
-  text1: A tool for visualization of the <a href="https://en.wikipedia.org/wiki/Central_limit_theorem">Central Limit Theorem</a> and sampling distributions.
+  text1: A tool for visualization of the <a href="https://en.wikipedia.org/wiki/Central_limit_theorem">Central Limit Theorem</a>.
   image: clt.png
-  category: other
+  category: visualizations
+-
+  name: Maze Generator
+  URL: http://chinstorff.com/maze
+  secondary-name: source
+  secondary-URL: http://github.com/chinstorff/maze
+  text1: An amaze-ing (sorry) maze visualization trinket
+  image: maze.png
+  category: visualizations
