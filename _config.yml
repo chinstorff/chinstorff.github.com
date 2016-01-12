@@ -1,13 +1,13 @@
 # Site settings
-title: Christopher Hinstorff
+title: Chris Hinstorff
 tagline: But you can call me Chris
 author: 
-  name: Christopher Hinstorff
+  name: Chris Hinstorff
   email: chris@chinstorff.com
   github: chinstorff
   twitter: chinstorff
 
-description: "Christopher Hinstorff's personal website"
+description: "Chris Hinstorff's personal website"
 baseurl: ""
 url: "http://chinstorff.com/"
 
