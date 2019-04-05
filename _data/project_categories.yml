@@ -1,25 +1,8 @@
 -
-  id: hacks
-  name: Hackathon Creations
+  id: music
+  name: Music
   description:
 -
-  id: visualizations
-  name: Visualizations
+  id: math
+  name: Math Visualizations
   description:
--
-  id: games
-  name: Web Games
-  description:
--
-  id: voice
-  name: The Paly Voice
-  description:
--
-  id: other
-  name: Miscellaneous
-  description:
--
-  id: notcode
-  name: Other Endeavors
-  description:
-  visibility: hidden

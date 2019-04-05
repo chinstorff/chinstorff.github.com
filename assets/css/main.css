@@ -121,31 +121,29 @@ dd ul li {
     font-size: 18px;
 }
 
-.projects {
-    width: 100%;
-    box-sizing: border-box;
-}
-
 .projects * {
     box-sizing: border-box;
 }
 
 .projects h2 {
-    text-align: center;
-    margin-bottom: 10px;
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+
+.projects h3 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.projects p {
+    margin: 0px;
 }
 
 .projects {
-    background: #f5f5f5;
-    padding: 20px;
-    margin-bottom: 30px;
-    
-    border: 1px solid;
-    border-color: #c9c3ba;
-    border-radius: 20px;
+    display: inline-block;
 }
 
-.projects img{
+.projects img {
     max-width: 277px;
 }
 

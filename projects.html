@@ -5,45 +5,16 @@ permalink: projects/
 ---
 
 {% include JB/setup %}
-<ul id="tabs"></ul>
 <div class="projects">
   {% for category in site.data.project_categories %}
   {% if category.visibility == hidden %}
-  <div class="project-category tabContent" id="{{ category.id }}">
-    <h2 style="display:none">{{ category.name }}</h2>
-    <table>
-      <tr>
-	{% for project in site.data.projects %}
-	    {% if project.category == category.id and project.visibility == hidden %}
-	    <td>
-	      <a href="{{ project.URL }}" target ="_blank"><img src="{{ ASSET_PATH }}/img/projects/{{ project.image }}"</img></a>
-	    </td>
-	    {% endif %}
-	{% endfor %}
-	</tr>
-	<tr>
+    <h3>{{ category.name }}</h3>
 	{% for project in site.data.projects %}
 	  {% if project.category == category.id and project.visibility == hidden %}
-	  <td>
-	    <h3>{{ project.name }}{{ project.name2 }}</h3>
-	    <p>{{ project.text1 }}</p>
-	    {% if project.text2 %}
-	    <p>{{ project.text2 }}</p>
-	    {% endif %}
-	    <p><em>
-	      <a href="{{ project.URL }}" target="_blank">{{ project.name }}</a>
-	      {% if project.secondary-name && project.secondary-URL %}
-	      | <a href="{{ project.secondary-URL }}" target="_blank">{{ project.secondary-name }}</a>
-	      {% endif %}
-	    </em></p>
-
-	  </td>
-	  {% endif %}
-	{% endfor %}
-	</tr>
+	    <p><a href="{{ project.URL }}">{{ project.name }}{{ project.name2 }}</a></p>
+          {% endif %}
+        {% endfor %}
     </table>
-  </div>
   {% endif %}
   {% endfor %}
 </div>
-{% include custom/tabs %}

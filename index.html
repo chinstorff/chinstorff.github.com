@@ -3,18 +3,22 @@ layout: page
 title: Chris Hinstorff
 tagline: Supporting tagline
 ---
+<div class="projects">
+  <h1>Hi there. I'm Chris Hinstorff.</h1>
+  <p><a href="mailto:chris@chinstorff.com" target="_blank">chris@chinstorff.com</a></p>
+  <p><a href="https://www.linkedin.com/in/chinstorff/" target="_blank">linkedin.com/in/chinstorff</a></p>
+  <p><a href="https://github.com/chinstorff/" target="_blank">github.com/chinstorff</a></p>
 
-<div class="row" style="margin-top: -80px;">
-  <div class="span12 welcome-message">
-    <h1>Hi there. I'm Chris.</h1>
-    <h1>You've found my personal website.</h1>
-  </div>
+  <h2>Here are some things I've made.</h2>
+  {% for category in site.data.project_categories %}
+  {% if category.visibility == hidden %}
+    <h3>{{ category.name }}</h3>
+    {% for project in site.data.projects %}
+    {% if project.category == category.id and project.visibility == hidden %}
+    <p><a href="{{ project.URL }}">{{ project.name }}{{ project.name2 }}</a></p>
+    {% endif %}
+    {% endfor %}
+  {% endif %}
+  {% endfor %}
 </div>
-<br>
-<div class="row">
-  <div class="span7" style="position:relative;padding-right:20px;padding-left:40px">
-    <p>I taught myself how to <a href="http://github.com/chinstorff">code</a> and enjoy taking on <a href="http://chinstorff.com/projects">programming projects</a>.</p>
-    <p>I'm a senior at <a href="https://en.wikipedia.org/wiki/Tufts_University">Tufts University</a>.</p>
-    <p>If you want to contact me, <a href="mailto:chris@chinstorff.com"> send me an email</a>.
-  </div>
-</div>
+
